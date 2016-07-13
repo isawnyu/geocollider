@@ -12,7 +12,7 @@ class PleiadesParser < GeocolliderParser
           [row["title"], row["nameAttested"], row["nameTransliterated"]].each do |name|
             unless name.nil?
               names[name] ||= []
-              names[name] |= ["http://pleiades.stoa.org/#{row["pid"]}"]
+              names[name] |= ["http://pleiades.stoa.org#{row["pid"]}"]
             end
           end
         end
@@ -20,6 +20,7 @@ class PleiadesParser < GeocolliderParser
         $stderr.puts "Parsing Pleiades places..."
         CSV.foreach(filename, :headers => true) do |row|
           places["http://pleiades.stoa.org#{row["path"]}"] = row.to_hash
+          places["http://pleiades.stoa.org#{row["path"]}"]['point'] = Point.new(row['reprLat'].to_f,row['reprLong'].to_f)
         end
       elsif filename =~ /^pleiades-locations-.*\.csv$/
         $stderr.puts "Parsing Pleiades locations..."

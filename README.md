@@ -1,3 +1,9 @@
+# Geocollider
+
+This is a Ruby program/framework for gazetteer alignment. It aims to provide generic functionality for finding potential matches between two placename datasets.
+
+## Organization
+
 Superclass:
 
 - provides interface
