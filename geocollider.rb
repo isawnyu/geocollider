@@ -14,6 +14,6 @@ $stderr.puts names.keys.length
 $stderr.puts places.keys.length
 
 geonames = GeonamesParser.new()
-CSV.open("pleiades-plus.csv", "wb") do |csv|
-  geonames.compare(names, places, ['geonames.csv'], csv)
+CSV.open(ARGV[0], "wb") do |csv|
+  geonames.compare(names, places, ARGV[1..-1], csv)
 end
