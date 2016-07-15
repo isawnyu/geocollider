@@ -1,6 +1,8 @@
 require_relative "../geocollider_parser"
 
-class PleiadesParser < GeocolliderParser
+class PleiadesParser
+  extend GeocolliderParser
+
   def parse(filenames)
     names = {}
     places = {}

@@ -1,6 +1,8 @@
 require_relative "../geocollider_parser"
 
-class GeonamesParser < GeocolliderParser
+class GeonamesParser
+  extend GeocolliderParser
+
   def compare(names, places, filenames, csv_writer)
     filenames.each do |filename|
       geonames_data = File.open(filename, "rb")
