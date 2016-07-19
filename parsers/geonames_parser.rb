@@ -21,7 +21,7 @@ class GeonamesParser
           geonames_names = ([geoname["name"], geoname["asciiname"]] + geoname["alternatenames"]).uniq.compact
           geonames_names.each do |name|
             $stderr.puts "Checking #{name}"
-            if names.keys.include?(name)
+            if names.has_key?(name)
               $stderr.puts "Name match, checking places..."
               names[name].each do |place|
                 $stderr.puts "Checking #{place}"
