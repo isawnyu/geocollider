@@ -40,6 +40,7 @@ class TGNParser
       end # each line
     end # each file
     $stderr.puts "Checking for matches..."
+    matches = {}
     labels.each_key do |label|
       if names.has_key?(label)
         # $stderr.puts "Match: #{label}"
@@ -49,7 +50,11 @@ class TGNParser
             if points.has_key?(tgn_subject)
               # $stderr.puts "Checking #{tgn_subject}"
               if self.class.check_point(places[place]['point'],points[tgn_subject])
-                csv_writer << [place, tgn_subject]
+                unless (matches.has_key?(place) && matches[place].include?(tgn_subject))
+                  matches[place] ||= []
+                  matches[place] << tgn_subject
+                  csv_writer << [place, tgn_subject]
+                end
               end
             end
           end
