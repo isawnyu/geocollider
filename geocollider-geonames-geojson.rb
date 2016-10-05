@@ -1,0 +1,20 @@
+#!/usr/bin/env ruby
+#
+Encoding.default_external = Encoding::UTF_8
+Encoding.default_internal = Encoding::UTF_8
+
+require_relative 'parsers/geonames_parser'
+require_relative 'parsers/geojson_parser'
+
+geonames = GeonamesParser.new()
+names, places = geonames.parse([ARGV[0]])
+$stderr.puts names.first.inspect
+$stderr.puts places.first.inspect
+$stderr.puts names.keys.length
+$stderr.puts places.keys.length
+
+geojson_parser = GeoJSONParser.new()
+CSV.open(ARGV[1], "wb") do |csv|
+  geojson_compare = geojson_parser.comparison_lambda(names, places, csv)
+  geojson_parser.parse(ARGV[2..-1], geojson_compare)
+end

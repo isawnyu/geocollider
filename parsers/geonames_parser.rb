@@ -24,6 +24,12 @@ class GeonamesParser
           geonames_names = ([geoname["name"], geoname["asciiname"]] + geoname["alternatenames"]).uniq.compact
           geonames_place = Point.new(geoname["latitude"],geoname["longitude"])
           if compare.nil? # no comparison function passed
+            geonames_names.each do |name|
+              names[name] ||= []
+              names[name] << geoname["id"]
+            end
+            places[geoname["id"]] = {}
+            places[geoname["id"]]["point"] = geonames_place
           else
             geonames_names.each do |name|
               compare.call(name, geonames_place, geoname["id"])
@@ -32,6 +38,8 @@ class GeonamesParser
         end
       end
     end
+
+    return names, places
   end
 
   def comparison_lambda(names, places, csv_writer)
