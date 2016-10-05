@@ -1,0 +1,16 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rgeo (0.5.3)
+    rgeo-geojson (0.4.3)
+      rgeo (~> 0.5)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  rgeo
+  rgeo-geojson
+
+BUNDLED WITH
+   1.13.2
