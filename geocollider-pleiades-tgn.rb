@@ -15,5 +15,6 @@ $stderr.puts places.keys.length
 
 tgn = TGNParser.new()
 CSV.open(ARGV[0], "wb") do |csv|
-  tgn.compare(names, places, ARGV[1..-1], csv)
+  tgn_comparison = tgn.comparison_lambda(names, places, csv)
+  tgn.parse(ARGV[1..-1], tgn_comparison)
 end

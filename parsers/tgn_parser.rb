@@ -3,7 +3,7 @@ require_relative "../geocollider_parser"
 class TGNParser
   extend GeocolliderParser
 
-  def compare(names, places, filenames, csv_writer)
+  def parse(filenames, compare = nil)
     geometries = {}
     points = {}
     labels = {}
@@ -18,10 +18,8 @@ class TGNParser
           tgn_toponym = object[/"(.+)"/,1]
           unless tgn_toponym.nil?
             tgn_toponym.gsub!(/\\u(.{4})/) {|m| [$1.to_i(16)].pack('U')}
-            if names.has_key?(tgn_toponym)
-              labels[tgn_toponym] ||= []
-              labels[tgn_toponym] << subject
-            end
+            labels[tgn_toponym] ||= []
+            labels[tgn_toponym] << subject
           end
         elsif predicate == '<http://schema.org/latitude>'
           subject.sub!('-geometry>','>')
@@ -41,27 +39,32 @@ class TGNParser
         end
       end # each line
     end # each file
-    $stderr.puts "Checking for matches..."
-    matches = {}
-    labels.each_key do |label|
-      if names.has_key?(label)
-        # $stderr.puts "Match: #{label}"
-        names[label].each do |place|
-          # $stderr.puts labels[label].inspect
-          labels[label].each do |tgn_subject|
-            if points.has_key?(tgn_subject)
-              # $stderr.puts "Checking #{tgn_subject}"
-              if self.class.check_point(places[place]['point'],points[tgn_subject])
-                unless (matches.has_key?(place) && matches[place].include?(tgn_subject))
-                  matches[place] ||= []
-                  matches[place] << tgn_subject
-                  csv_writer << [place, tgn_subject]
-                end
-              end
-            end
+
+    unless compare.nil?
+      $stderr.puts "Checking for matches..."
+      labels.each_key do |label|
+        labels[label].each do |tgn_subject|
+          if points.has_key?(tgn_subject)
+            compare.call(label, points[tgn_subject], tgn_subject)
           end
         end
       end
     end
-  end # compare
+  end
+
+  def comparison_lambda(names, places, csv_writer)
+    lambda_function = lambda do |name, place, id|
+      if names.has_key?(name)
+        $stderr.puts "Name match for #{name}, checking places..."
+        names[name].each do |check_place|
+          $stderr.puts "Checking #{check_place}"
+          if TGNParser.check_point(places[check_place]['point'], place)
+            $stderr.puts "Match!"
+            csv_writer << [check_place, id]
+          end
+        end
+      end
+    end
+    return lambda_function
+  end
 end # TGNParser
