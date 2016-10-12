@@ -35,6 +35,7 @@ module Geocollider
   end
 end
 
+require 'parsers/csv_parser'
 require 'parsers/geojson_parser'
 require 'parsers/geonames_parser'
 require 'parsers/osm_pbf_parser'
