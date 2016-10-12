@@ -1,3 +1,10 @@
+PATH
+  remote: .
+  specs:
+    geocollider (0.0.0)
+      rgeo
+      rgeo-geojson
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -9,8 +16,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  rgeo
-  rgeo-geojson
+  geocollider!
 
 BUNDLED WITH
    1.13.2
