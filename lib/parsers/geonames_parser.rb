@@ -1,7 +1,5 @@
-require_relative "../geocollider_parser"
-
-class GeonamesParser
-  extend GeocolliderParser
+class Geocollider::GeonamesParser
+  extend Geocollider::Parser
 
   def parse(filenames, compare = nil)
     names = {}
@@ -22,7 +20,7 @@ class GeonamesParser
           geoname["featureclass"] = row[6]
           geoname["featurecode"] = row[7]
           geonames_names = ([geoname["name"], geoname["asciiname"]] + geoname["alternatenames"]).uniq.compact
-          geonames_place = Point.new(geoname["latitude"],geoname["longitude"])
+          geonames_place = Geocollider::Point.new(geoname["latitude"],geoname["longitude"])
           if compare.nil? # no comparison function passed
             geonames_names.each do |name|
               names[name] ||= []
@@ -48,7 +46,7 @@ class GeonamesParser
         $stderr.puts "Name match for #{name}, checking places..."
         names[name].each do |check_place|
           $stderr.puts "Checking #{check_place}"
-          if GeonamesParser.check_point(places[check_place]['point'], place)
+          if Geocollider::GeonamesParser.check_point(places[check_place]['point'], place)
             $stderr.puts "Match!"
             csv_writer << [check_place, id]
           end

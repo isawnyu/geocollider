@@ -1,9 +1,7 @@
-require_relative "../geocollider_parser"
-
 require 'rgeo/geo_json'
 
-class GeoJSONParser
-  extend GeocolliderParser
+class Geocollider::GeoJSONParser
+  extend Geocollider::Parser
 
   def parse(filenames, compare = nil)
     names = {}
@@ -18,7 +16,7 @@ class GeoJSONParser
           unless compare.nil? 
             %w{name title}.each do |name|
               if geojson_feature.properties.include?(name)
-                compare.call(geojson_feature[name], Point.new(geojson_feature.geometry.y, geojson_feature.geometry.x), "#{filename} #{geojson_feature[name]}")
+                compare.call(geojson_feature[name], Geocollider::Point.new(geojson_feature.geometry.y, geojson_feature.geometry.x), "#{filename} #{geojson_feature[name]}")
               end
             end
           end
@@ -34,7 +32,7 @@ class GeoJSONParser
         $stderr.puts "Name match for #{name}, checking places..."
         names[name].each do |check_place|
           $stderr.puts "Checking #{check_place}"
-          if GeoJSONParser.check_point(places[check_place]['point'], place)
+          if Geocollider::GeoJSONParser.check_point(places[check_place]['point'], place)
             $stderr.puts "Match!"
             csv_writer << [check_place, id]
           end

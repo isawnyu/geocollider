@@ -2,12 +2,14 @@ PATH
   remote: .
   specs:
     geocollider (0.0.0)
+      pbf_parser
       rgeo
       rgeo-geojson
 
 GEM
   remote: https://rubygems.org/
   specs:
+    pbf_parser (0.2.0)
     rgeo (0.5.3)
     rgeo-geojson (0.4.3)
       rgeo (~> 0.5)

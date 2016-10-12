@@ -16,6 +16,7 @@ Subclass:
 
 Example subclasses:
 
+- Generic CSV/TSV class?
 - PleiadesParser
 - TGNParser
 - GeoNamesParser

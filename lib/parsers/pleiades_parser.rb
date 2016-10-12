@@ -1,7 +1,5 @@
-require_relative "../geocollider_parser"
-
-class PleiadesParser
-  extend GeocolliderParser
+class Geocollider::PleiadesParser
+  extend Geocollider::Parser
 
   def parse(filenames)
     names = {}
@@ -22,7 +20,7 @@ class PleiadesParser
         $stderr.puts "Parsing Pleiades places..."
         CSV.foreach(filename, :headers => true) do |row|
           places["http://pleiades.stoa.org#{row["path"]}"] = row.to_hash
-          places["http://pleiades.stoa.org#{row["path"]}"]['point'] = Point.new(row['reprLat'].to_f,row['reprLong'].to_f)
+          places["http://pleiades.stoa.org#{row["path"]}"]['point'] = Geocollider::Point.new(row['reprLat'].to_f,row['reprLong'].to_f)
         end
       elsif filename =~ /^pleiades-locations-.*\.csv$/
         $stderr.puts "Parsing Pleiades locations..."

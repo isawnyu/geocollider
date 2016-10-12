@@ -1,9 +1,7 @@
-require_relative "../geocollider_parser"
-
 require 'pbf_parser'
 
-class OSMPBFParser
-  extend GeocolliderParser
+class Geocollider::OSMPBFParser
+  extend Geocollider::Parser
 
   def compare(names, places, filenames, csv_writer)
     filenames.each do |filename|

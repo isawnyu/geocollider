@@ -1,7 +1,5 @@
-require_relative "../geocollider_parser"
-
-class TGNParser
-  extend GeocolliderParser
+class Geocollider::TGNParser
+  extend Geocollider::Parser
 
   def parse(filenames, compare = nil)
     geometries = {}
@@ -26,14 +24,14 @@ class TGNParser
           geometries[subject] ||= {}
           geometries[subject][:latitude] = object[/"(.+)"/,1].to_f
           if geometries[subject].has_key?(:longitude)
-            points[subject] = Point.new(geometries[subject][:latitude],geometries[subject][:longitude])
+            points[subject] = Geocollider::Point.new(geometries[subject][:latitude],geometries[subject][:longitude])
           end
         elsif predicate == '<http://schema.org/longitude>'
           subject.sub!('-geometry>','>')
           geometries[subject] ||= {}
           geometries[subject][:longitude] = object[/"(.+)"/,1].to_f
           if geometries[subject].has_key?(:latitude)
-            points[subject] = Point.new(geometries[subject][:latitude],geometries[subject][:longitude])
+            points[subject] = Geocollider::Point.new(geometries[subject][:latitude],geometries[subject][:longitude])
           end
         elsif predicate == '<http://vocab.getty.edu/ontology#parentString>'
         end
@@ -58,7 +56,7 @@ class TGNParser
         $stderr.puts "Name match for #{name}, checking places..."
         names[name].each do |check_place|
           $stderr.puts "Checking #{check_place}"
-          if TGNParser.check_point(places[check_place]['point'], place)
+          if Geocollider::TGNParser.check_point(places[check_place]['point'], place)
             $stderr.puts "Match!"
             csv_writer << [check_place, id]
           end
