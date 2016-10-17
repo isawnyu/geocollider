@@ -1,6 +1,14 @@
 class Geocollider::PleiadesParser
   extend Geocollider::Parser
 
+  def download()
+    %w{locations names places}.map do |data_type|
+      filename = "pleiades-#{data_type}-latest.csv.gz"
+      $stderr.puts `wget -O #{filename} http://atlantides.org/downloads/pleiades/dumps/#{filename} && gunzip -f #{filename}`
+      File.basename(filename, '.gz')
+    end
+  end
+
   def parse(filenames)
     names = {}
     places = {}
