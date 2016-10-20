@@ -27,8 +27,25 @@
 class Geocollider::CSVParser
   extend Geocollider::Parser
 
+  DEFAULT_OPTIONS = {
+    :quote_char => "\u{FFFF}",
+    :headers => false
+  }
+
   def initialize(options = {})
-    @parse_options = options
+    @parse_options = DEFAULT_OPTIONS.merge(options)
+    [:lat, :lon, :id].each do |param|
+      if @parse_options[param].instance_of?(String) && @parse_options[param] =~ /\d+/
+        @parse_options[param] = @parse_options[param].to_i
+      end
+    end
+    @parse_options[:names].map! do |name|
+      if name.instance_of?(String) && name =~ /\d+/
+        name.to_i
+      else
+        name
+      end
+    end
   end
 
   def parse(filenames, compare = nil)
