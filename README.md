@@ -2,6 +2,8 @@
 
 This is a Ruby program/framework for gazetteer alignment. It aims to provide generic functionality for finding potential matches between two placename datasets.
 
+**WARNING:** This project is still under active initial development, and may be subject to massive changes and API breakage.
+
 ## Organization
 
 Superclass:
@@ -27,6 +29,7 @@ Parser:
 - `parse(filename)` - returns hash of `names->places` and `places->data`
 - `compare(names, places, filename, csv)` - returns matches against names/places from parsing filename
 - `download(filename)` - eventually, so this won't be in Makefiles and the like
+  - (how) do we want to persist this?
 
 Place:
 
