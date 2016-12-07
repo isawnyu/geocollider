@@ -85,6 +85,18 @@ class Geocollider::CSVParser
     return names, places
   end
 
+  def string_comparison_lambda(names, places, csv_writer)
+    lambda_function = lambda do |name, place, id|
+      if names.has_key?(name)
+        $stderr.puts "Name match for #{name}, writing all places"
+        names[name].each do |matched_place|
+          csv_writer << [matched_place, id]
+        end
+      end
+    end
+    return lambda_function
+  end
+
   def comparison_lambda(names, places, csv_writer)
     lambda_function = lambda do |name, place, id|
       if names.has_key?(name)
