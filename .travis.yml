@@ -5,4 +5,4 @@ addons:
   apt:
     packages:
     - zlib1g-dev
-    - libprotobuf-c0-dev
+    - libprotobuf-dev
