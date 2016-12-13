@@ -1,7 +1,6 @@
-require 'geocollider'
-require 'test/unit'
+require 'test_helper'
 
-class TestGeocollider < Test::Unit::TestCase
+class GeocolliderTest < Minitest::Test
   def test_simple
     assert_equal(1,1)
   end
