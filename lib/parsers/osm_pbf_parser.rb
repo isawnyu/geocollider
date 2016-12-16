@@ -1,4 +1,4 @@
-require 'pbf_parser'
+# require 'pbf_parser'
 
 class Geocollider::OSMPBFParser
   extend Geocollider::Parser

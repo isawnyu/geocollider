@@ -12,7 +12,7 @@ Gem::Specification.new do |s|
   s.license     = 'MIT'
   s.add_runtime_dependency 'rgeo'
   s.add_runtime_dependency 'rgeo-geojson'
-  s.add_runtime_dependency 'pbf_parser'
+  # s.add_runtime_dependency 'pbf_parser'
   s.add_runtime_dependency 'highline'
   s.add_development_dependency 'minitest'
   s.add_development_dependency 'rake'
