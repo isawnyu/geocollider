@@ -6,10 +6,7 @@ Encoding.default_internal = Encoding::UTF_8
 require 'geocollider'
 
 pleiades = Geocollider::PleiadesParser.new()
-# names, places = pleiades.parse(%w{pleiades-places-latest.csv pleiades-names-latest.csv pleiades-locations-latest.csv})
-filenames = pleiades.download()
-$stderr.puts filenames.inspect
-names, places = pleiades.parse(filenames)
+names, places = pleiades.parse(Geocollider::PleiadesParser::FILENAMES)
 $stderr.puts names.first.inspect
 $stderr.puts places.first.inspect
 $stderr.puts names.keys.length

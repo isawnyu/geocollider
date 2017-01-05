@@ -1,12 +1,30 @@
+require 'net/http'
+require 'uri'
+require 'zlib'
+require 'stringio'
+
 class Geocollider::PleiadesParser
   extend Geocollider::Parser
 
-  def download()
-    %w{locations names places}.map do |data_type|
-      filename = "pleiades-#{data_type}-latest.csv.gz"
-      $stderr.puts `wget -O #{filename} http://atlantides.org/downloads/pleiades/dumps/#{filename} && gunzip -f #{filename}`
-      File.basename(filename, '.gz')
+  FILENAMES = %w{locations names places}.map{|i| "pleiades-#{i}-latest.csv"}
+
+  def initialize
+    FILENAMES.each do |filename|
+      unless File.exist?(filename)
+        download(filename + '.gz')
+      end
     end
+  end
+
+  def download(filename)
+    $stderr.puts(filename)
+    uri = URI.parse("http://atlantides.org/downloads/pleiades/dumps/#{filename}")
+    response = Net::HTTP.get_response(uri)
+    last_modified = Date.httpdate(response['last-modified'])
+    gz = Zlib::GzipReader.new(StringIO.new(response.body.to_s))
+    output_filename = File.basename(filename, '.gz')
+    File.write(output_filename, gz.read)
+    FileUtils.touch(output_filename, :mtime => last_modified.to_time)
   end
 
   def parse(filenames)
