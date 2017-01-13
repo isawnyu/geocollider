@@ -20,7 +20,7 @@ class Geocollider::GeonamesParser
           geoname["featureclass"] = row[6]
           geoname["featurecode"] = row[7]
           geonames_names = ([geoname["name"], geoname["asciiname"]] + geoname["alternatenames"]).uniq.compact
-          geonames_place = Geocollider::Point.new(geoname["latitude"],geoname["longitude"])
+          geonames_place = Geocollider::Point.new(latitude: geoname["latitude"], longitude: geoname["longitude"])
           if compare.nil? # no comparison function passed
             geonames_names.each do |name|
               names[name] ||= []

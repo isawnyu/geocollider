@@ -64,7 +64,7 @@ class Geocollider::CSVParser
           csv_row["longitude"] = row[@parse_options[:lon]].to_f
 
           csv_names = @parse_options[:names].map {|name_field| row[name_field]}.uniq.compact
-          csv_place = Geocollider::Point.new(csv_row["latitude"], csv_row["longitude"])
+          csv_place = Geocollider::Point.new(latitude: csv_row["latitude"], longitude: csv_row["longitude"])
 
           if compare.nil? # no comparison function passed
             csv_names.each do |name|

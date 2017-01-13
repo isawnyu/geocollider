@@ -46,7 +46,7 @@ class Geocollider::PleiadesParser
         $stderr.puts "Parsing Pleiades places..."
         CSV.foreach(filename, :headers => true) do |row|
           places["http://pleiades.stoa.org#{row["path"]}"] = row.to_hash
-          places["http://pleiades.stoa.org#{row["path"]}"]['point'] = Geocollider::Point.new(row['reprLat'].to_f,row['reprLong'].to_f)
+          places["http://pleiades.stoa.org#{row["path"]}"]['point'] = Geocollider::Point.new(latitude: row['reprLat'].to_f, longitude: row['reprLong'].to_f)
         end
       elsif filename =~ /^pleiades-locations-.*\.csv$/
         $stderr.puts "Parsing Pleiades locations..."

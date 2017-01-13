@@ -24,14 +24,14 @@ class Geocollider::TGNParser
           geometries[subject] ||= {}
           geometries[subject][:latitude] = object[/"(.+)"/,1].to_f
           if geometries[subject].has_key?(:longitude)
-            points[subject] = Geocollider::Point.new(geometries[subject][:latitude],geometries[subject][:longitude])
+            points[subject] = Geocollider::Point.new(latitude: geometries[subject][:latitude], longitude: geometries[subject][:longitude])
           end
         elsif predicate == '<http://schema.org/longitude>'
           subject.sub!('-geometry>','>')
           geometries[subject] ||= {}
           geometries[subject][:longitude] = object[/"(.+)"/,1].to_f
           if geometries[subject].has_key?(:latitude)
-            points[subject] = Geocollider::Point.new(geometries[subject][:latitude],geometries[subject][:longitude])
+            points[subject] = Geocollider::Point.new(latitude: geometries[subject][:latitude], longitude: geometries[subject][:longitude])
           end
         elsif predicate == '<http://vocab.getty.edu/ontology#parentString>'
         end

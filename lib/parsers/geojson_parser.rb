@@ -16,7 +16,7 @@ class Geocollider::GeoJSONParser
           unless compare.nil? 
             %w{name title}.each do |name|
               if geojson_feature.properties.include?(name)
-                compare.call(geojson_feature[name], Geocollider::Point.new(geojson_feature.geometry.y, geojson_feature.geometry.x), "#{filename} #{geojson_feature[name]}")
+                compare.call(geojson_feature[name], Geocollider::Point.new(latitude: geojson_feature.geometry.y, longitude: geojson_feature.geometry.x), "#{filename} #{geojson_feature[name]}")
               end
             end
           end
