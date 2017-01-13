@@ -31,6 +31,34 @@ module Geocollider
       end
     end
   end
+
+  class Normalizer
+    class << self
+      def whitespace(input)
+        # convert multiple spaces to a single space
+        input.gsub(/\ +/, ' ').strip
+      end
+
+      def case(input)
+        input.strip.downcase
+      end
+
+      def accents(input)
+        # convert to NFD then strip accent class characters
+        input.strip.downcase.unicode_normalize(:nfd).gsub(/\p{M}/,'')
+      end
+
+      def punctuation(input)
+        # strip all punctuation class characters
+        input.gsub(/\p{P}/u, '')
+      end
+
+      def latin(input)
+        # require 'i18n'
+        # I18n.transliterate(input)
+      end
+    end
+  end
 end
 
 require 'parsers/csv_parser'
