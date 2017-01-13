@@ -1,4 +1,8 @@
-# require 'pbf_parser'
+begin
+  require 'pbf_parser'
+rescue LoadError
+  # $stderr.puts 'Gem "pbf_parser" not installed - if you would like to use OSMPBFParser, run `bundle install --with osm` first'
+end
 
 class Geocollider::OSMPBFParser
   extend Geocollider::Parser
