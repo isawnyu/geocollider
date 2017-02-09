@@ -36,10 +36,6 @@ csv_options[:lon] = ask("What column are your longitude values in?  ", csv_optio
 csv_options[:id] = ask("What column are your identifier values in?  ", csv_options[:headers] ? String : Integer)
 csv_options[:names] = ask("What column(s) are your name values in (comma-separated)?  ", lambda { |str| str.split(/,\s*/) } )
 
-unless csv_options[:headers]
-  csv_options[:names].map!{|n_col| n_col.to_i}
-end
-
 $stderr.puts csv_options.inspect
 
 csv_parser = Geocollider::CSVParser.new(csv_options)
