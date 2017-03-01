@@ -97,13 +97,13 @@ class Geocollider::CSVParser
     return lambda_function
   end
 
-  def comparison_lambda(names, places, csv_writer)
+  def comparison_lambda(names, places, csv_writer, distance_threshold = 8.0)
     lambda_function = lambda do |name, place, id|
       if names.has_key?(name)
         $stderr.puts "Name match for #{name}, checking places..."
         names[name].each do |check_place|
           $stderr.puts "Checking #{check_place}"
-          if Geocollider::CSVParser.check_point(places[check_place]['point'], place)
+          if Geocollider::CSVParser.check_point(places[check_place]['point'], place, distance_threshold)
             $stderr.puts "Match!"
             csv_writer << [check_place, id]
           end
