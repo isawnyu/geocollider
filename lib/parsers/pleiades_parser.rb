@@ -27,7 +27,7 @@ class Geocollider::PleiadesParser
     FileUtils.touch(output_filename, :mtime => last_modified.to_time)
   end
 
-  def parse(filenames)
+  def parse(filenames, string_normalizer = lambda {|s| s})
     names = {}
     places = {}
 
@@ -36,9 +36,10 @@ class Geocollider::PleiadesParser
         $stderr.puts "Parsing Pleiades names..."
         CSV.foreach(filename, :headers => true) do |row|
           [row["title"], row["nameAttested"], row["nameTransliterated"]].each do |name|
+            normalized_name = string_normalizer(name)
             unless name.nil?
-              names[name] ||= []
-              names[name] |= ["http://pleiades.stoa.org#{row["pid"]}"]
+              names[normalized_name] ||= []
+              names[normalized_name] |= ["http://pleiades.stoa.org#{row["pid"]}"]
             end
           end
         end
