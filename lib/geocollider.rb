@@ -34,7 +34,7 @@ module Geocollider
   end
 
   class StringNormalizer
-    def init(input)
+    def initialize(input)
       @input = input
     end
 
