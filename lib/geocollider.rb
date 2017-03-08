@@ -1,4 +1,5 @@
 require 'csv'
+require 'i18n'
 
 module Geocollider
   class Point
@@ -32,31 +33,37 @@ module Geocollider
     end
   end
 
-  class Normalizer
-    class << self
-      def whitespace(input)
-        # convert multiple spaces to a single space
-        input.gsub(/\ +/, ' ').strip
-      end
+  class StringNormalizer
+    def init(input)
+      @input = input
+    end
 
-      def case(input)
-        input.strip.downcase
-      end
+    def whitespace
+      # convert multiple spaces to a single space
+      @input = @input.gsub(/\ +/, ' ').strip
+    end
 
-      def accents(input)
-        # convert to NFD then strip accent class characters
-        input.strip.downcase.unicode_normalize(:nfd).gsub(/\p{M}/,'')
-      end
+    def case
+      @input = @input.downcase
+    end
 
-      def punctuation(input)
-        # strip all punctuation class characters
-        input.gsub(/\p{P}/u, '')
-      end
+    def accents
+      # convert to NFD then strip accent class characters
+      @input = @input.unicode_normalize(:nfd).gsub(/\p{M}/,'')
+    end
 
-      def latin(input)
-        # require 'i18n'
-        # I18n.transliterate(input)
-      end
+    def nfc
+      # convert to NFC
+      @input = @input.unicode_normalize(:nfc)
+    end
+
+    def punctuation
+      # strip all punctuation class characters
+      @input = @input.gsub(/\p{P}/u, '')
+    end
+
+    def latin
+      @input = I18n.transliterate(@input)
     end
   end
 end
