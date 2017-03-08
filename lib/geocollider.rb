@@ -39,7 +39,7 @@ module Geocollider
     end
 
     def whitespace
-      # convert multiple spaces to a single space
+      # convert multiple spaces to a single space, strip trailing/leading space
       @input = @input.gsub(/\ +/, ' ').strip
     end
 
