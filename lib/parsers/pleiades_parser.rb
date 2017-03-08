@@ -36,7 +36,7 @@ class Geocollider::PleiadesParser
         $stderr.puts "Parsing Pleiades names..."
         CSV.foreach(filename, :headers => true) do |row|
           [row["title"], row["nameAttested"], row["nameTransliterated"]].each do |name|
-            normalized_name = string_normalizer(name)
+            normalized_name = string_normalizer.call(name)
             unless name.nil?
               names[normalized_name] ||= []
               names[normalized_name] |= ["http://pleiades.stoa.org#{row["pid"]}"]
