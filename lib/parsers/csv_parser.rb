@@ -29,7 +29,7 @@ class Geocollider::CSVParser
 
   DEFAULT_OPTIONS = {
     :quote_char => "\u{FFFF}",
-    :headers => false
+    :headers => false,
     :string_normalizer => lambda { |input| Geocollider::StringNormalizer.new(input).whitespace }
   }
 
