@@ -38,6 +38,17 @@ module Geocollider
       @input = input
     end
 
+    def self.normalizer_lambda(normalizations)
+      lambda do |input_string|
+        string_normalizer = self.new(input_string)
+        %w{case accents nfc punctuation latin whitespace}.each do |normalizer|
+          if normalizations.include?(normalizer)
+            string_normalizer.send(normalizer)
+          end
+        end
+      end
+    end
+
     def whitespace
       # convert multiple spaces to a single space, strip trailing/leading space
       @input = @input.gsub(/\ +/, ' ').strip
