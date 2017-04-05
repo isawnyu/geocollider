@@ -89,9 +89,10 @@ class Geocollider::CSVParser
 
   def string_comparison_lambda(names, places, csv_writer)
     lambda_function = lambda do |name, place, id|
-      if names.has_key?(@parse_options[:string_normalizer].call(name))
-        $stderr.puts "Name match for #{name}, writing all places"
-        names[name].each do |matched_place|
+      normalized_name = @parse_options[:string_normalizer].call(name)
+      if names.has_key?(normalized_name)
+        $stderr.puts "Name match for #{normalized_name}, writing all places"
+        names[normalized_name].each do |matched_place|
           csv_writer << [matched_place, id]
         end
       end
@@ -101,9 +102,10 @@ class Geocollider::CSVParser
 
   def comparison_lambda(names, places, csv_writer, distance_threshold = 8.0)
     lambda_function = lambda do |name, place, id|
-      if names.has_key?(@parse_options[:string_normalizer].call(name))
-        $stderr.puts "Name match for #{name}, checking places..."
-        names[name].each do |check_place|
+      normalized_name = @parse_options[:string_normalizer].call(name)
+      if names.has_key?(normalized_name)
+        $stderr.puts "Name match for #{normalized_name}, checking places..."
+        names[normalized_name].each do |check_place|
           $stderr.puts "Checking #{check_place}"
           if Geocollider::CSVParser.check_point(places[check_place]['point'], place, distance_threshold)
             $stderr.puts "Match!"

@@ -34,6 +34,8 @@ module Geocollider
   end
 
   class StringNormalizer
+    attr_reader :input
+
     def initialize(input)
       @input = input
     end
@@ -41,11 +43,14 @@ module Geocollider
     def self.normalizer_lambda(normalizations)
       lambda do |input_string|
         string_normalizer = self.new(input_string)
+        # $stderr.puts "Before normalization: #{input_string}"
         %w{case accents nfc punctuation latin whitespace}.each do |normalizer|
           if normalizations.include?(normalizer)
             string_normalizer.send(normalizer)
           end
         end
+        # $stderr.puts "After normalization: #{string_normalizer.input}"
+        return string_normalizer.input
       end
     end
 
