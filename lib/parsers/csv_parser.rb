@@ -56,7 +56,7 @@ class Geocollider::CSVParser
     filenames.each do |filename|
       csv_data = File.open(filename, "rb")
       until csv_data.eof()
-        csv_string = csv_data.readline.force_encoding('UTF-8').encode('UTF-8', :invalid => :replace)
+        csv_string = csv_data.read.force_encoding('UTF-8').encode('UTF-8', :invalid => :replace)
         CSV.parse(csv_string, :headers => @parse_options[:headers], :col_sep => @parse_options[:separator], :quote_char => @parse_options[:quote_char]) do |row|
           csv_row = {}
           csv_row["id"] = row[@parse_options[:id]]
