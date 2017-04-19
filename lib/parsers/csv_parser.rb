@@ -61,11 +61,15 @@ class Geocollider::CSVParser
           csv_row = {}
           csv_row["id"] = row[@parse_options[:id]]
 
-          csv_row["latitude"] = row[@parse_options[:lat]].to_f
-          csv_row["longitude"] = row[@parse_options[:lon]].to_f
+          # handle name-only parsing
+          csv_place = nil
+          unless @parse_options[:lat].nil? || @parse_options[:lon].nil? || ((@parse_options[:lat].class == String) && (@parse_options[:lat].empty?)) || ((@parse_options[:lon].class == String) && (@parse_options[:lon].empty?))
+            csv_row["latitude"] = row[@parse_options[:lat]].to_f
+            csv_row["longitude"] = row[@parse_options[:lon]].to_f
+            csv_place = Geocollider::Point.new(latitude: csv_row["latitude"], longitude: csv_row["longitude"])
+          end
 
           csv_names = @parse_options[:names].map {|name_field| row[name_field]}.uniq.compact
-          csv_place = Geocollider::Point.new(latitude: csv_row["latitude"], longitude: csv_row["longitude"])
 
           if compare.nil? # no comparison function passed
             csv_names.each do |name|
@@ -73,8 +77,11 @@ class Geocollider::CSVParser
               names[normalized_name] ||= []
               names[normalized_namename] << csv_row["id"]
             end
-            places[csv_row["id"]] = {}
-            places[csv_row["id"]]["point"] = csv_place
+
+            unless csv_place.nil?
+              places[csv_row["id"]] = {}
+              places[csv_row["id"]]["point"] = csv_place
+            end
           else
             csv_names.each do |name|
               compare.call(@parse_options[:string_normalizer].call(name), csv_place, csv_row["id"])
