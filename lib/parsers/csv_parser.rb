@@ -69,7 +69,10 @@ class Geocollider::CSVParser
             csv_place = Geocollider::Point.new(latitude: csv_row["latitude"], longitude: csv_row["longitude"])
           end
 
-          csv_names = @parse_options[:names].map {|name_field| row[name_field]}.uniq.compact
+          csv_names = []
+          if @parse_options[:names].length > 0 # handle point-only parsing
+            csv_names = @parse_options[:names].map {|name_field| row[name_field]}.uniq.compact
+          end
 
           if compare.nil? # no comparison function passed
             csv_names.each do |name|
@@ -82,9 +85,13 @@ class Geocollider::CSVParser
               places[csv_row["id"]] = {}
               places[csv_row["id"]]["point"] = csv_place
             end
-          else
-            csv_names.each do |name|
-              compare.call(@parse_options[:string_normalizer].call(name), csv_place, csv_row["id"])
+          else # comparison function passed
+            if csv_names.length > 0
+              csv_names.each do |name|
+                compare.call(@parse_options[:string_normalizer].call(name), csv_place, csv_row["id"])
+              end
+            else
+              compare.call(nil, csv_place, csv_row["id"])
             end
           end
         end
@@ -101,6 +108,18 @@ class Geocollider::CSVParser
         $stderr.puts "Name match for #{normalized_name}, writing all places"
         names[normalized_name].each do |matched_place|
           csv_writer << [matched_place, id]
+        end
+      end
+    end
+    return lambda_function
+  end
+
+  def point_comparison_lambda(names, places, csv_writer, distance_threshold = 8.0)
+    lambda_function = lambda do |name, place, id|
+      places.each_key do |check_place|
+        if (places[check_place]['locationPrecision'] != 'unlocated') && Geocollider::CSVParser.check_point(places[check_place]['point'], place, distance_threshold)
+          $stderr.puts "Match: #{check_place},#{id}"
+          csv_writer << [check_place, id]
         end
       end
     end
