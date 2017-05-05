@@ -2,3 +2,5 @@
 *.geojson
 *.nt
 doc
+.bundle
+.yardoc
