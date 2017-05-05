@@ -11,7 +11,11 @@ module Geocollider
     end
   end
 
+  # The Geocollider::Parser mixin is designed to be included
+  # by individual parser classes.
   module Parser
+    # Compute the haversine (great-circle) distance between two
+    # Geocollider::Point objects.
     def haversine_distance(point1, point2)
       km_conv = 6371 # km
       dLat = (point2.lat - point1.lat) * Math::PI / 180
@@ -24,6 +28,8 @@ module Geocollider
       d = km_conv * c
     end
 
+    # Check if two Geocollider::Point objects are within a given
+    # distance threshold (in kilometers).
     def check_point(point1, point2, distance_threshold = 8.0)
       if haversine_distance(point1, point2) < distance_threshold
         return true
@@ -33,6 +39,7 @@ module Geocollider
     end
   end
 
+  # Convenience methods for normalizing strings.
   class StringNormalizer
     attr_reader :input
 
@@ -40,6 +47,9 @@ module Geocollider
       @input = input
     end
 
+    # Constructs a string normalizer lambda, given an array of
+    # strings matching Geocollider::StringNormalizer instance
+    # methods.
     def self.normalizer_lambda(normalizations)
       lambda do |input_string|
         string_normalizer = self.new(input_string)
@@ -54,30 +64,32 @@ module Geocollider
       end
     end
 
+    # Convert multiple spaces to a single space, strip trailing/leading space.
     def whitespace
-      # convert multiple spaces to a single space, strip trailing/leading space
       @input = @input.gsub(/\ +/, ' ').strip
     end
 
+    # Normalize to lowercase.
     def case
       @input = @input.downcase
     end
 
+    # Convert to Unicode NFD, then strip accent class characters.
     def accents
-      # convert to NFD then strip accent class characters
       @input = @input.unicode_normalize(:nfd).gsub(/\p{M}/,'')
     end
 
+    # Convert to Unicode Normalized Form C.
     def nfc
-      # convert to NFC
       @input = @input.unicode_normalize(:nfc)
     end
-
+      
+    # Strip all punctuation class characters.
     def punctuation
-      # strip all punctuation class characters
       @input = @input.gsub(/\p{P}/u, '')
     end
 
+    # Transliterate all characters to Latin script.
     def latin
       @input = I18n.transliterate(@input)
     end
