@@ -48,7 +48,7 @@ class Geocollider::PleiadesParser
       elsif filename =~ /^pleiades-places-.*\.csv$/
         $stderr.puts "Parsing Pleiades places..."
         CSV.foreach(filename, :headers => true) do |row|
-          places["#{PLEIADES_HOST}#{row["path"]}"] = row.to_hash
+          places["#{PLEIADES_HOST}#{row["path"]}"] = {'locationPrecision' => row['locationPrecision']}
           places["#{PLEIADES_HOST}#{row["path"]}"]['point'] = Geocollider::Point.new(latitude: row['reprLat'].to_f, longitude: row['reprLong'].to_f)
         end
       elsif filename =~ /^pleiades-locations-.*\.csv$/
@@ -57,7 +57,7 @@ class Geocollider::PleiadesParser
           # normalized_name = string_normalizer.call(row["title"])
           # names[normalized_name] ||= []
           # names[normalized_name] |= ["#{PLEIADES_HOST}#{row["path"]}"]
-          places["#{PLEIADES_HOST}#{row["path"]}"] = row.to_hash
+          places["#{PLEIADES_HOST}#{row["path"]}"] = {'locationPrecision' => row['locationPrecision']}
           places["#{PLEIADES_HOST}#{row["path"]}"]['point'] = Geocollider::Point.new(latitude: row['reprLat'].to_f, longitude: row['reprLong'].to_f)
         end
       end
