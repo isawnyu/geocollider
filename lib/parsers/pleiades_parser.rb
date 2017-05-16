@@ -6,6 +6,8 @@ require 'stringio'
 class Geocollider::PleiadesParser
   extend Geocollider::Parser
 
+  PLEIADES_HOST = 'https://pleiades.stoa.org'
+
   FILENAMES = %w{locations names places}.map{|i| "pleiades-#{i}-latest.csv"}
 
   def initialize
@@ -39,15 +41,15 @@ class Geocollider::PleiadesParser
             unless name.nil?
               normalized_name = string_normalizer.call(name)
               names[normalized_name] ||= []
-              names[normalized_name] |= ["http://pleiades.stoa.org#{row["pid"]}"]
+              names[normalized_name] |= ["#{PLEIADES_HOST}#{row["pid"]}"]
             end
           end
         end
       elsif filename =~ /^pleiades-places-.*\.csv$/
         $stderr.puts "Parsing Pleiades places..."
         CSV.foreach(filename, :headers => true) do |row|
-          places["http://pleiades.stoa.org#{row["path"]}"] = row.to_hash
-          places["http://pleiades.stoa.org#{row["path"]}"]['point'] = Geocollider::Point.new(latitude: row['reprLat'].to_f, longitude: row['reprLong'].to_f)
+          places["#{PLEIADES_HOST}#{row["path"]}"] = row.to_hash
+          places["#{PLEIADES_HOST}#{row["path"]}"]['point'] = Geocollider::Point.new(latitude: row['reprLat'].to_f, longitude: row['reprLong'].to_f)
         end
       elsif filename =~ /^pleiades-locations-.*\.csv$/
         $stderr.puts "Parsing Pleiades locations..."
