@@ -1,6 +1,9 @@
 require 'csv'
 require 'i18n'
 
+Encoding.default_external = Encoding::UTF_8
+Encoding.default_internal = Encoding::UTF_8
+
 module Geocollider
   class Point
     attr_accessor :lat, :lon
