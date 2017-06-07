@@ -117,9 +117,14 @@ class Geocollider::CSVParser
   def point_comparison_lambda(names, places, csv_writer, distance_threshold = 8.0)
     lambda_function = lambda do |name, place, id|
       places.each_key do |check_place|
-        if (places[check_place]['locationPrecision'] != 'unlocated') && Geocollider::CSVParser.check_point(places[check_place]['point'], place, distance_threshold)
-          $stderr.puts "Match: #{check_place},#{id}"
-          csv_writer << [check_place, id]
+        if (places[check_place]['locationPrecision'] != 'unlocated')
+          places[check_place]['points'].each do |check_point|
+            if Geocollider::CSVParser.check_point(check_point, place, distance_threshold)
+              $stderr.puts "Match: #{check_place},#{id}"
+              csv_writer << [check_place, id]
+              break
+            end
+          end
         end
       end
     end
@@ -133,9 +138,12 @@ class Geocollider::CSVParser
         $stderr.puts "Name match for #{normalized_name}, checking places..."
         names[normalized_name].each do |check_place|
           $stderr.puts "Checking #{check_place}"
-          if Geocollider::CSVParser.check_point(places[check_place]['point'], place, distance_threshold)
-            $stderr.puts "Match!"
-            csv_writer << [check_place, id]
+          places[check_place]['points'].each do |check_point|
+            if Geocollider::CSVParser.check_point(check_point, place, distance_threshold)
+              $stderr.puts "Match!"
+              csv_writer << [check_place, id]
+              break
+            end
           end
         end
       end
