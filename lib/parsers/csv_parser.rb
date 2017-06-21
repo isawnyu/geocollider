@@ -40,11 +40,13 @@ class Geocollider::CSVParser
         @parse_options[param] = @parse_options[param].to_i
       end
     end
-    @parse_options[:names].map! do |name|
-      if (!@parse_options[:headers]) && (name.instance_of?(String) && name =~ /\d+/)
-        name.to_i
-      else
-        name
+    if @parse_options.has_key?(:names)
+      @parse_options[:names].map! do |name|
+        if (!@parse_options[:headers]) && (name.instance_of?(String) && name =~ /\d+/)
+          name.to_i
+        else
+          name
+        end
       end
     end
   end

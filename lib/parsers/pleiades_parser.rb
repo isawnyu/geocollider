@@ -52,7 +52,9 @@ class Geocollider::PleiadesParser
           normalized_name = string_normalizer.call(row["title"])
           names[normalized_name] ||= []
           names[normalized_name] |= ["#{PLEIADES_HOST}#{row["path"]}"]
-          places["#{PLEIADES_HOST}#{row["path"]}"] ||= {'locationPrecision' => row['locationPrecision']}
+          places["#{PLEIADES_HOST}#{row["path"]}"] ||= {}
+          places["#{PLEIADES_HOST}#{row["path"]}"]['locationPrecision'] = row['locationPrecision']
+          places["#{PLEIADES_HOST}#{row["path"]}"]['title'] = row['title']
           places["#{PLEIADES_HOST}#{row["path"]}"]['points'] ||= []
           places["#{PLEIADES_HOST}#{row["path"]}"]['points'] << Geocollider::Point.new(latitude: row['reprLat'].to_f, longitude: row['reprLong'].to_f)
         end
