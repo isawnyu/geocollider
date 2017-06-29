@@ -9,8 +9,8 @@ module Geocollider
     attr_accessor :lat, :lon
 
     def initialize(args)
-      @lat = args[:latitude]
-      @lon = args[:longitude]
+      @lat = args[:latitude].to_f
+      @lon = args[:longitude].to_f
     end
   end
 
