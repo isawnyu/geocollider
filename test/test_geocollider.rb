@@ -6,8 +6,14 @@ class GeocolliderTest < Minitest::Test
     @geocollider.extend(Geocollider::Parser)
   end
 
-  def test_simple
-    assert_equal(1,1)
+  def test_point_construction
+    test_point = Geocollider::Point.new(latitude: 40.714268, longitude: -74.005974)
+    test_point_redux = Geocollider::Point.new(longitude: -74.005974, latitude: 40.714268)
+    assert_equal(test_point.lat, test_point_redux.lat)
+    assert_equal(test_point.lon, test_point_redux.lon)
+    test_point_string = Geocollider::Point.new(latitude: "40.714268", longitude: "-74.005974")
+    assert_equal(test_point.lat, test_point_string.lat)
+    assert_equal(test_point.lon, test_point_string.lon)
   end
 
   def test_haversine_distance
