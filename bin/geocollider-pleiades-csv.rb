@@ -6,7 +6,7 @@ Encoding.default_internal = Encoding::UTF_8
 require 'geocollider'
 require 'highline/import'
 
-pleiades = Geocollider::PleiadesParser.new()
+pleiades = Geocollider::Parsers::PleiadesParser.new()
 names, places = pleiades.parse(%w{pleiades-places-latest.csv pleiades-names-latest.csv pleiades-locations-latest.csv})
 $stderr.puts names.first.inspect
 $stderr.puts places.first.inspect
@@ -38,7 +38,7 @@ csv_options[:names] = ask("What column(s) are your name values in (comma-separat
 
 $stderr.puts csv_options.inspect
 
-csv_parser = Geocollider::CSVParser.new(csv_options)
+csv_parser = Geocollider::Parsers::CSVParser.new(csv_options)
 CSV.open(ARGV[0], "wb") do |csv|
   csv_compare = csv_parser.comparison_lambda(names, places, csv)
   csv_parser.parse(ARGV[1..-1], csv_compare)
