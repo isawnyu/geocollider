@@ -18,7 +18,7 @@ module Geocollider
   # by individual parser classes.
   module Parser
     # Compute the haversine (great-circle) distance between two
-    # Geocollider::Point objects.
+    # {Geocollider::Point} objects.
     def haversine_distance(point1, point2)
       km_conv = 6371 # km
       dLat = (point2.lat - point1.lat) * Math::PI / 180
@@ -31,7 +31,7 @@ module Geocollider
       d = km_conv * c
     end
 
-    # Check if two Geocollider::Point objects are within a given
+    # Check if two {Geocollider::Point} objects are within a given
     # distance threshold (in kilometers).
     def check_point(point1, point2, distance_threshold = 8.0)
       if haversine_distance(point1, point2) < distance_threshold
