@@ -6,11 +6,11 @@ Encoding.default_internal = Encoding::UTF_8
 
 module Geocollider
   class Point
-    attr_accessor :lat, :lon
+    attr_accessor :latitude, :longitude
 
     def initialize(args)
-      @lat = args[:latitude].to_f
-      @lon = args[:longitude].to_f
+      @latitude = args[:latitude].to_f
+      @longitude = args[:longitude].to_f
     end
   end
 
@@ -21,8 +21,8 @@ module Geocollider
     # {Geocollider::Point} objects.
     def haversine_distance(point1, point2)
       km_conv = 6371 # km
-      dLat = (point2.lat - point1.lat) * Math::PI / 180
-      dLon = (point2.lon - point1.lon) * Math::PI / 180
+      dLat = (point2.latitude - point1.latitude) * Math::PI / 180
+      dLon = (point2.longitude - point1.longitude) * Math::PI / 180
       lat1 = point1.lat * Math::PI / 180
       lat2 = point2.lat * Math::PI / 180
 
