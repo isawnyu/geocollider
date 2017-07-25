@@ -23,8 +23,8 @@ module Geocollider
       km_conv = 6371 # km
       dLat = (point2.latitude - point1.latitude) * Math::PI / 180
       dLon = (point2.longitude - point1.longitude) * Math::PI / 180
-      lat1 = point1.lat * Math::PI / 180
-      lat2 = point2.lat * Math::PI / 180
+      lat1 = point1.latitude * Math::PI / 180
+      lat2 = point2.latitude * Math::PI / 180
 
       a = Math.sin(dLat/2) * Math.sin(dLat/2) + Math.sin(dLon/2) * Math.sin(dLon/2) * Math.cos(lat1) * Math.cos(lat2)
       c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a))
