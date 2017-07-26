@@ -34,9 +34,12 @@ module Geocollider
             $stderr.puts "Name match for #{name}, checking places..."
             names[name].each do |check_place|
               $stderr.puts "Checking #{check_place}"
-              if Geocollider::GeoJSONParser.check_point(places[check_place]['point'], place)
-                $stderr.puts "Match!"
-                csv_writer << [check_place, id]
+              places[check_place]['points'].each do |check_point|
+                if Geocollider::Parsers::GeoJSONParser.check_point(check_point, place)
+                  $stderr.puts "Match!"
+                  csv_writer << [check_place, id]
+                  break
+                end
               end
             end
           end
