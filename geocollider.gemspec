@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.email       = 'ryan.baumann@gmail.com'
   s.files       = Dir.glob("{bin,lib}/**/*") + %w(LICENSE README.md)
   s.homepage    =
-    'http://github.com/ryanfb/geocollider'
+    'http://github.com/isawnyu/geocollider'
   s.license     = 'MIT'
   s.add_runtime_dependency 'rgeo'
   s.add_runtime_dependency 'rgeo-geojson'
