@@ -32,7 +32,7 @@ module Geocollider
       FileUtils.touch(output_filename, :mtime => last_modified.to_time)
     end
 
-    def parse(filenames, string_normalizer = lambda {|s| s})
+    def parse(filenames = FILENAMES, string_normalizer = lambda {|s| s})
       names = {}
       places = {}
 
