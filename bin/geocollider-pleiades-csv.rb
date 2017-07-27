@@ -6,14 +6,18 @@ Encoding.default_internal = Encoding::UTF_8
 require 'geocollider'
 require 'highline/import'
 
+string_normalizer = Geocollider::StringNormalizer.normalizer_lambda()
+
 pleiades = Geocollider::Parsers::PleiadesParser.new()
-names, places = pleiades.parse(%w{pleiades-places-latest.csv pleiades-names-latest.csv pleiades-locations-latest.csv})
+names, places = pleiades.parse(%w{pleiades-places-latest.csv pleiades-names-latest.csv pleiades-locations-latest.csv}, string_normalizer)
 $stderr.puts names.first.inspect
 $stderr.puts places.first.inspect
 $stderr.puts names.keys.length
 $stderr.puts places.keys.length
 
-csv_options = {}
+csv_options = {
+  :string_normalizer => string_normalizer
+}
 
 puts ""
 separator = choose do |menu|
