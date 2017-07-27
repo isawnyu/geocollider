@@ -46,6 +46,8 @@ module Geocollider
   class StringNormalizer
     attr_reader :input
 
+    NORMALIZATION_DEFAULTS = %w{whitespace case accents punctuation nfc}
+
     def initialize(input)
       @input = input
     end
@@ -53,7 +55,7 @@ module Geocollider
     # Constructs a string normalizer lambda, given an array of
     # strings matching Geocollider::StringNormalizer instance
     # methods.
-    def self.normalizer_lambda(normalizations)
+    def self.normalizer_lambda(normalizations = NORMALIZATION_DEFAULTS)
       lambda do |input_string|
         unless input_string.nil?
           string_normalizer = self.new(input_string)
