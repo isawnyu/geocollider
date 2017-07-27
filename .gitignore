@@ -1,6 +1,6 @@
 ./*.csv
-*.geojson
-*.nt
+./*.geojson
+./*.nt
 doc
 .bundle
 .yardoc

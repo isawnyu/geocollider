@@ -1,0 +1,1000 @@
+<http://vocab.getty.edu/tgn/2065604> <http://www.w3.org/2000/01/rdf-schema#label> "New Freedom" .
+<http://vocab.getty.edu/tgn/8359204> <http://www.w3.org/2000/01/rdf-schema#label> "Leinong"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8359204> <http://www.w3.org/2000/01/rdf-schema#label> "\u96F7\u5F04"@zh .
+<http://vocab.getty.edu/tgn/8115004> <http://www.w3.org/2000/01/rdf-schema#label> "Dingcun"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8115004> <http://www.w3.org/2000/01/rdf-schema#label> "\u4E01\u6751"@zh .
+<http://vocab.getty.edu/tgn/2420904> <http://www.w3.org/2000/01/rdf-schema#label> "Jenny Watts Point" .
+<http://vocab.getty.edu/tgn/2107604> <http://www.w3.org/2000/01/rdf-schema#label> "Shady Grove" .
+<http://vocab.getty.edu/tgn/2627504> <http://www.w3.org/2000/01/rdf-schema#label> "Rogerene, Lake" .
+<http://vocab.getty.edu/tgn/2627504> <http://www.w3.org/2000/01/rdf-schema#label> "Lake Rogerene" .
+<http://vocab.getty.edu/tgn/2627504> <http://www.w3.org/2000/01/rdf-schema#label> "Lake Rogerine" .
+<http://vocab.getty.edu/tgn/7351504> <http://www.w3.org/2000/01/rdf-schema#label> "Caim\u00E1n" .
+<http://vocab.getty.edu/tgn/8364804> <http://www.w3.org/2000/01/rdf-schema#label> "Qiuying"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8364804> <http://www.w3.org/2000/01/rdf-schema#label> "\u90B1\u8425"@zh .
+<http://vocab.getty.edu/tgn/2455704> <http://www.w3.org/2000/01/rdf-schema#label> "Little Grant Mine" .
+<http://vocab.getty.edu/tgn/7485604> <http://www.w3.org/2000/01/rdf-schema#label> "Longmen Daqiao"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/7485604> <http://www.w3.org/2000/01/rdf-schema#label> "Longmen Daciao"@zh-latn .
+<http://vocab.getty.edu/tgn/7485604> <http://www.w3.org/2000/01/rdf-schema#label> "Lung-men Ch'iao"@zh-latn .
+<http://vocab.getty.edu/tgn/7485604> <http://www.w3.org/2000/01/rdf-schema#label> "Lung-men Ta-ch'iao"@zh-latn .
+<http://vocab.getty.edu/tgn/7485604> <http://www.w3.org/2000/01/rdf-schema#label> "\u9F8D\u9580\u5927\u6A4B"@zh .
+<http://vocab.getty.edu/tgn/8151904> <http://www.w3.org/2000/01/rdf-schema#label> "Sanbu"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8151904> <http://www.w3.org/2000/01/rdf-schema#label> "\u4E09\u5821"@zh .
+<http://vocab.getty.edu/tgn/8151904> <http://www.w3.org/2000/01/rdf-schema#label> "Ma-shan-pao"@zh-latn .
+<http://vocab.getty.edu/tgn/2294204> <http://www.w3.org/2000/01/rdf-schema#label> "Dow Brook Reservoir" .
+<http://vocab.getty.edu/tgn/2294204> <http://www.w3.org/2000/01/rdf-schema#label> "Dows Brook Reservoir" .
+<http://vocab.getty.edu/tgn/2739704> <http://www.w3.org/2000/01/rdf-schema#label> "Upper Crystal Lake" .
+<http://vocab.getty.edu/tgn/8397604> <http://www.w3.org/2000/01/rdf-schema#label> "Shibanpo"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8397604> <http://www.w3.org/2000/01/rdf-schema#label> "\u77F3\u677F\u5761"@zh .
+<http://vocab.getty.edu/tgn/7611704> <http://www.w3.org/2000/01/rdf-schema#label> "Saint-Frion"@en .
+<http://vocab.getty.edu/tgn/8489404> <http://www.w3.org/2000/01/rdf-schema#label> "Tiesitang"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8489404> <http://www.w3.org/2000/01/rdf-schema#label> "\u94C1\u4E1D\u5858"@zh .
+<http://vocab.getty.edu/tgn/8543704> <http://www.w3.org/2000/01/rdf-schema#label> "Zhoutoucun"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8543704> <http://www.w3.org/2000/01/rdf-schema#label> "\u6D32\u5934\u6751"@zh .
+<http://vocab.getty.edu/tgn/2061104> <http://www.w3.org/2000/01/rdf-schema#label> "Brandenburg" .
+<http://vocab.getty.edu/tgn/2061104> <http://www.w3.org/2000/01/rdf-schema#label> "Brandenberg" .
+<http://vocab.getty.edu/tgn/8570104> <http://www.w3.org/2000/01/rdf-schema#label> "Suzhou"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8570104> <http://www.w3.org/2000/01/rdf-schema#label> "Suzhou Shi"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8570104> <http://www.w3.org/2000/01/rdf-schema#label> "\u82CF\u5DDE"@zh .
+<http://vocab.getty.edu/tgn/8570104> <http://www.w3.org/2000/01/rdf-schema#label> "Su-chou Shih"@zh-latn .
+<http://vocab.getty.edu/tgn/8570104> <http://www.w3.org/2000/01/rdf-schema#label> "\u82CF\u5DDE\u5E02"@zh .
+<http://vocab.getty.edu/tgn/2372604> <http://www.w3.org/2000/01/rdf-schema#label> "Hall Creek" .
+<http://vocab.getty.edu/tgn/7316504> <http://www.w3.org/2000/01/rdf-schema#label> "Castillo" .
+<http://vocab.getty.edu/tgn/7091104> <http://www.w3.org/2000/01/rdf-schema#label> "Vorm W\u00E4ldle" .
+<http://vocab.getty.edu/tgn/8160504> <http://www.w3.org/2000/01/rdf-schema#label> "Houlou"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8160504> <http://www.w3.org/2000/01/rdf-schema#label> "\u540E\u697C"@zh .
+<http://vocab.getty.edu/tgn/2350904> <http://www.w3.org/2000/01/rdf-schema#label> "Gladstone" .
+<http://vocab.getty.edu/tgn/8193104> <http://www.w3.org/2000/01/rdf-schema#label> "Xujiaba"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8193104> <http://www.w3.org/2000/01/rdf-schema#label> "\u8BB8\u5BB6\u575D"@zh .
+<http://vocab.getty.edu/tgn/7503504> <http://www.w3.org/2000/01/rdf-schema#label> "Dengcuo"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/7503504> <http://www.w3.org/2000/01/rdf-schema#label> "Teng-wu"@zh-latn .
+<http://vocab.getty.edu/tgn/7503504> <http://www.w3.org/2000/01/rdf-schema#label> "Teng-ts'o"@zh-latn .
+<http://vocab.getty.edu/tgn/7503504> <http://www.w3.org/2000/01/rdf-schema#label> "Tang-ts'o"@zh-latn .
+<http://vocab.getty.edu/tgn/7503504> <http://www.w3.org/2000/01/rdf-schema#label> "\u9127\u539D"@zh .
+<http://vocab.getty.edu/tgn/8554204> <http://www.w3.org/2000/01/rdf-schema#label> "Tizicun"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8554204> <http://www.w3.org/2000/01/rdf-schema#label> "\u4F53\u5B57\u6751"@zh .
+<http://vocab.getty.edu/tgn/2295804> <http://www.w3.org/2000/01/rdf-schema#label> "Drum Island" .
+<http://vocab.getty.edu/tgn/2670804> <http://www.w3.org/2000/01/rdf-schema#label> "Smith Brook" .
+<http://vocab.getty.edu/tgn/2318604> <http://www.w3.org/2000/01/rdf-schema#label> "Erma Spring" .
+<http://vocab.getty.edu/tgn/2423904> <http://www.w3.org/2000/01/rdf-schema#label> "Johnny Moore Hill" .
+<http://vocab.getty.edu/tgn/2200504> <http://www.w3.org/2000/01/rdf-schema#label> "Brushy Mountain" .
+<http://vocab.getty.edu/tgn/1017304> <http://www.w3.org/2000/01/rdf-schema#label> "Coyuca de Ben\u00EDtez" .
+<http://vocab.getty.edu/tgn/1017304> <http://www.w3.org/2000/01/rdf-schema#label> "Coyuca" .
+<http://vocab.getty.edu/tgn/1017304> <http://www.w3.org/2000/01/rdf-schema#label> "Tixtlacingo" .
+<http://vocab.getty.edu/tgn/1017304> <http://www.w3.org/2000/01/rdf-schema#label> "Tixtlancingo" .
+<http://vocab.getty.edu/tgn/1017304> <http://www.w3.org/2000/01/rdf-schema#label> "San Mart\u00EDn Tixtlancingo" .
+<http://vocab.getty.edu/tgn/2630704> <http://www.w3.org/2000/01/rdf-schema#label> "Round Knob" .
+<http://vocab.getty.edu/tgn/2413904> <http://www.w3.org/2000/01/rdf-schema#label> "Iron Canyon Spring" .
+<http://vocab.getty.edu/tgn/8084604> <http://www.w3.org/2000/01/rdf-schema#label> "Bujia Citang"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8084604> <http://www.w3.org/2000/01/rdf-schema#label> "\u90E8\u5BB6\u7960\u5802"@zh .
+<http://vocab.getty.edu/tgn/2784804> <http://www.w3.org/2000/01/rdf-schema#label> "Yellow Branch" .
+<http://vocab.getty.edu/tgn/2487504> <http://www.w3.org/2000/01/rdf-schema#label> "Left Fork Claylick Run" .
+<http://vocab.getty.edu/tgn/2621604> <http://www.w3.org/2000/01/rdf-schema#label> "Roark Creek" .
+<http://vocab.getty.edu/tgn/7053304> <http://www.w3.org/2000/01/rdf-schema#label> "Maggio" .
+<http://vocab.getty.edu/tgn/2332004> <http://www.w3.org/2000/01/rdf-schema#label> "Flinn Pond Brook" .
+<http://vocab.getty.edu/tgn/8589304> <http://www.w3.org/2000/01/rdf-schema#label> "Houhezicun"@zh-latn .
+<http://vocab.getty.edu/tgn/7796604> <http://www.w3.org/2000/01/rdf-schema#label> "Wandana Junior Primary School"@en .
+<http://vocab.getty.edu/tgn/7559104> <http://www.w3.org/2000/01/rdf-schema#label> "Risia"@en .
+<http://vocab.getty.edu/tgn/1068504> <http://www.w3.org/2000/01/rdf-schema#label> "Gushu" .
+<http://vocab.getty.edu/tgn/2045504> <http://www.w3.org/2000/01/rdf-schema#label> "Rogers Corners" .
+<http://vocab.getty.edu/tgn/7596704> <http://www.w3.org/2000/01/rdf-schema#label> "Villetalle"@en .
+<http://vocab.getty.edu/tgn/1122804> <http://www.w3.org/2000/01/rdf-schema#label> "Chirrip\u00F3, R\u00EDo" .
+<http://vocab.getty.edu/tgn/1122804> <http://www.w3.org/2000/01/rdf-schema#label> "R\u00EDo Chirrip\u00F3" .
+<http://vocab.getty.edu/tgn/1122804> <http://www.w3.org/2000/01/rdf-schema#label> "Chirrip\u00F3" .
+<http://vocab.getty.edu/tgn/8283904> <http://www.w3.org/2000/01/rdf-schema#label> "Kagennile"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8283904> <http://www.w3.org/2000/01/rdf-schema#label> "\u5361\u6839\u5C3C\u52D2"@zh .
+<http://vocab.getty.edu/tgn/2598304> <http://www.w3.org/2000/01/rdf-schema#label> "Pretty Lake" .
+<http://vocab.getty.edu/tgn/7885204> <http://www.w3.org/2000/01/rdf-schema#label> "Raven's Rock"@en .
+<http://vocab.getty.edu/tgn/7926904> <http://www.w3.org/2000/01/rdf-schema#label> "Sm\u0101r Kota"@en .
+<http://vocab.getty.edu/tgn/7926904> <http://www.w3.org/2000/01/rdf-schema#label> "Simar Kotha" .
+<http://vocab.getty.edu/tgn/8592004> <http://www.w3.org/2000/01/rdf-schema#label> "Xiyangyanggou"@zh-latn .
+<http://vocab.getty.edu/tgn/2711804> <http://www.w3.org/2000/01/rdf-schema#label> "Tarkiln Brook" .
+<http://vocab.getty.edu/tgn/2711804> <http://www.w3.org/2000/01/rdf-schema#label> "Tarkill Brook" .
+<http://vocab.getty.edu/tgn/2579304> <http://www.w3.org/2000/01/rdf-schema#label> "Pickem Mountain" .
+<http://vocab.getty.edu/tgn/7279004> <http://www.w3.org/2000/01/rdf-schema#label> "Sagasca" .
+<http://vocab.getty.edu/tgn/8257604> <http://www.w3.org/2000/01/rdf-schema#label> "Xiaochang He"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8257604> <http://www.w3.org/2000/01/rdf-schema#label> "\u785D\u5382\u6CB3"@zh .
+<http://vocab.getty.edu/tgn/8434904> <http://www.w3.org/2000/01/rdf-schema#label> "Fuyang"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8434904> <http://www.w3.org/2000/01/rdf-schema#label> "\u5BCC\u9633"@zh .
+<http://vocab.getty.edu/tgn/7690704> <http://www.w3.org/2000/01/rdf-schema#label> "Kas\u0131mcan"@en .
+<http://vocab.getty.edu/tgn/8185404> <http://www.w3.org/2000/01/rdf-schema#label> "Dongkengshan"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8185404> <http://www.w3.org/2000/01/rdf-schema#label> "\u4E1C\u5751\u5C71"@zh .
+<http://vocab.getty.edu/tgn/8283504> <http://www.w3.org/2000/01/rdf-schema#label> "Xigao"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8283504> <http://www.w3.org/2000/01/rdf-schema#label> "\u897F\u768B"@zh .
+<http://vocab.getty.edu/tgn/2412904> <http://www.w3.org/2000/01/rdf-schema#label> "Ingram Hill" .
+<http://vocab.getty.edu/tgn/8213804> <http://www.w3.org/2000/01/rdf-schema#label> "Guizhuang"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8213804> <http://www.w3.org/2000/01/rdf-schema#label> "\u6842\u5E84"@zh .
+<http://vocab.getty.edu/tgn/8567904> <http://www.w3.org/2000/01/rdf-schema#label> "Baoxingcun"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8567904> <http://www.w3.org/2000/01/rdf-schema#label> "\u4FDD\u5174\u6751"@zh .
+<http://vocab.getty.edu/tgn/2670604> <http://www.w3.org/2000/01/rdf-schema#label> "Smiley Coulee" .
+<http://vocab.getty.edu/tgn/7287204> <http://www.w3.org/2000/01/rdf-schema#label> "Guaitecas, Grupo" .
+<http://vocab.getty.edu/tgn/7287204> <http://www.w3.org/2000/01/rdf-schema#label> "Grupo Guaitecas" .
+<http://vocab.getty.edu/tgn/7287204> <http://www.w3.org/2000/01/rdf-schema#label> "Islas Guaitecas" .
+<http://vocab.getty.edu/tgn/7127304> <http://www.w3.org/2000/01/rdf-schema#label> "Oberammerthal" .
+<http://vocab.getty.edu/tgn/8156204> <http://www.w3.org/2000/01/rdf-schema#label> "Liuwu"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8156204> <http://www.w3.org/2000/01/rdf-schema#label> "\u5218\u5C4B"@zh .
+<http://vocab.getty.edu/tgn/7140904> <http://www.w3.org/2000/01/rdf-schema#label> "Lust Berg" .
+<http://vocab.getty.edu/tgn/2251404> <http://www.w3.org/2000/01/rdf-schema#label> "Comet Spring, The" .
+<http://vocab.getty.edu/tgn/2251404> <http://www.w3.org/2000/01/rdf-schema#label> "The Comet Spring" .
+<http://vocab.getty.edu/tgn/8216604> <http://www.w3.org/2000/01/rdf-schema#label> "Mani"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8216604> <http://www.w3.org/2000/01/rdf-schema#label> "\u739B\u5C3C"@zh .
+<http://vocab.getty.edu/tgn/7328104> <http://www.w3.org/2000/01/rdf-schema#label> "Proente" .
+<http://vocab.getty.edu/tgn/8232104> <http://www.w3.org/2000/01/rdf-schema#label> "Guangfuqiao"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8232104> <http://www.w3.org/2000/01/rdf-schema#label> "\u5E7F\u798F\u6865"@zh .
+<http://vocab.getty.edu/tgn/7788004> <http://www.w3.org/2000/01/rdf-schema#label> "Alfords Point"@en .
+<http://vocab.getty.edu/tgn/2447704> <http://www.w3.org/2000/01/rdf-schema#label> "Lick Branch" .
+<http://vocab.getty.edu/tgn/2447704> <http://www.w3.org/2000/01/rdf-schema#label> "Lick Run" .
+<http://vocab.getty.edu/tgn/8207404> <http://www.w3.org/2000/01/rdf-schema#label> "Jiangtang"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8207404> <http://www.w3.org/2000/01/rdf-schema#label> "Jiangtang Xiang"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8207404> <http://www.w3.org/2000/01/rdf-schema#label> "\u6C5F\u5858"@zh .
+<http://vocab.getty.edu/tgn/8207404> <http://www.w3.org/2000/01/rdf-schema#label> "\u6C5F\u5858\u4E61"@zh .
+<http://vocab.getty.edu/tgn/8310004> <http://www.w3.org/2000/01/rdf-schema#label> "Shuigong Qilian"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8310004> <http://www.w3.org/2000/01/rdf-schema#label> "\u6C34\u5DE5\u4E03\u8FDE"@zh .
+<http://vocab.getty.edu/tgn/7999904> <http://www.w3.org/2000/01/rdf-schema#label> "Nih\u0101l Singhw\u0101la Minor"@en .
+<http://vocab.getty.edu/tgn/7786104> <http://www.w3.org/2000/01/rdf-schema#label> "Larsens Rocks"@en .
+<http://vocab.getty.edu/tgn/7569904> <http://www.w3.org/2000/01/rdf-schema#label> "S\u0101lgi\u0101w\u0101s"@en .
+<http://vocab.getty.edu/tgn/8387604> <http://www.w3.org/2000/01/rdf-schema#label> "Mukezhong"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8387604> <http://www.w3.org/2000/01/rdf-schema#label> "\u6728\u67EF\u4EF2"@zh .
+<http://vocab.getty.edu/tgn/7818904> <http://www.w3.org/2000/01/rdf-schema#label> "Wallan Creek"@en .
+<http://vocab.getty.edu/tgn/8054304> <http://www.w3.org/2000/01/rdf-schema#label> "Khaibar L\u0101har"@en .
+<http://vocab.getty.edu/tgn/8148804> <http://www.w3.org/2000/01/rdf-schema#label> "Dashancao"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/2594804> <http://www.w3.org/2000/01/rdf-schema#label> "Possum Hollow" .
+<http://vocab.getty.edu/tgn/8617704> <http://www.w3.org/2000/01/rdf-schema#label> "Xiaoyi"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8617704> <http://www.w3.org/2000/01/rdf-schema#label> "\u5C0F\u8863"@zh .
+<http://vocab.getty.edu/tgn/7479804> <http://www.w3.org/2000/01/rdf-schema#label> "Yu'an Gong"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/7479804> <http://www.w3.org/2000/01/rdf-schema#label> "Y\u00FC-an Kung"@zh-latn .
+<http://vocab.getty.edu/tgn/7479804> <http://www.w3.org/2000/01/rdf-schema#label> "\u7389\u5B89\u5BAE"@zh .
+<http://vocab.getty.edu/tgn/8134904> <http://www.w3.org/2000/01/rdf-schema#label> "Aotou"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8134904> <http://www.w3.org/2000/01/rdf-schema#label> "\u5773\u5934"@zh .
+<http://vocab.getty.edu/tgn/2400404> <http://www.w3.org/2000/01/rdf-schema#label> "Horse Hill" .
+<http://vocab.getty.edu/tgn/2469104> <http://www.w3.org/2000/01/rdf-schema#label> "Long Valley" .
+<http://vocab.getty.edu/tgn/7654304> <http://www.w3.org/2000/01/rdf-schema#label> "Ch\u00E2telain"@en .
+<http://vocab.getty.edu/tgn/7723104> <http://www.w3.org/2000/01/rdf-schema#label> "Hamzalar"@en .
+<http://vocab.getty.edu/tgn/7376204> <http://www.w3.org/2000/01/rdf-schema#label> "Lobo" .
+<http://vocab.getty.edu/tgn/8481604> <http://www.w3.org/2000/01/rdf-schema#label> "Liujiawan"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8481604> <http://www.w3.org/2000/01/rdf-schema#label> "\u5218\u5BB6\u6E7E"@zh .
+<http://vocab.getty.edu/tgn/2727404> <http://www.w3.org/2000/01/rdf-schema#label> "Trail Canyon" .
+<http://vocab.getty.edu/tgn/7841304> <http://www.w3.org/2000/01/rdf-schema#label> "Middle Creek"@en .
+<http://vocab.getty.edu/tgn/7552704> <http://www.w3.org/2000/01/rdf-schema#label> "M\u0101npur Nagaria"@en .
+<http://vocab.getty.edu/tgn/7860104> <http://www.w3.org/2000/01/rdf-schema#label> "Chertmony Soak"@en .
+<http://vocab.getty.edu/tgn/7222304> <http://www.w3.org/2000/01/rdf-schema#label> "Pol\u00F3ni, \u00C1kra"@el-latn .
+<http://vocab.getty.edu/tgn/7222304> <http://www.w3.org/2000/01/rdf-schema#label> "\u00C1kra Pol\u00F3ni"@el-latn .
+<http://vocab.getty.edu/tgn/2652304> <http://www.w3.org/2000/01/rdf-schema#label> "Seminole Hot Springs" .
+<http://vocab.getty.edu/tgn/8171004> <http://www.w3.org/2000/01/rdf-schema#label> "Taoyuan"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8171004> <http://www.w3.org/2000/01/rdf-schema#label> "\u6843\u56ED"@zh .
+<http://vocab.getty.edu/tgn/7792504> <http://www.w3.org/2000/01/rdf-schema#label> "Roe Creek"@en .
+<http://vocab.getty.edu/tgn/7078604> <http://www.w3.org/2000/01/rdf-schema#label> "Wind-Berg" .
+<http://vocab.getty.edu/tgn/8602404> <http://www.w3.org/2000/01/rdf-schema#label> "Daxiba"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8602404> <http://www.w3.org/2000/01/rdf-schema#label> "\u5927\u897F\u575D"@zh .
+<http://vocab.getty.edu/tgn/7791004> <http://www.w3.org/2000/01/rdf-schema#label> "Noora"@en .
+<http://vocab.getty.edu/tgn/8074404> <http://www.w3.org/2000/01/rdf-schema#label> "Hexin"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8074404> <http://www.w3.org/2000/01/rdf-schema#label> "\u5408\u65B0"@zh .
+<http://vocab.getty.edu/tgn/7239204> <http://www.w3.org/2000/01/rdf-schema#label> "Hoge Avrij" .
+<http://vocab.getty.edu/tgn/7239204> <http://www.w3.org/2000/01/rdf-schema#label> "Hooge Avrije" .
+<http://vocab.getty.edu/tgn/7239204> <http://www.w3.org/2000/01/rdf-schema#label> "Hooge-Avrye" .
+<http://vocab.getty.edu/tgn/7530504> <http://www.w3.org/2000/01/rdf-schema#label> "Taqs\u012Bm Mad\u012Bnat at Taw\u1E29\u012Bd"@ar-latn .
+<http://vocab.getty.edu/tgn/7530504> <http://www.w3.org/2000/01/rdf-schema#label> "\u062A\u0642\u0633\u064A\u0645 \u0645\u062F\u064A\u0646\u0629 \u0627\u0644\u062A\u0648\u062D\u064A\u062F"@ar .
+<http://vocab.getty.edu/tgn/7514504> <http://www.w3.org/2000/01/rdf-schema#label> "Dillon Creek"@en .
+<http://vocab.getty.edu/tgn/7538004> <http://www.w3.org/2000/01/rdf-schema#label> "Nazlat al \u1E28ar\u012Bd\u012B"@en .
+<http://vocab.getty.edu/tgn/7538004> <http://www.w3.org/2000/01/rdf-schema#label> "Nazlet el Har\u00EEdi" .
+<http://vocab.getty.edu/tgn/7224404> <http://www.w3.org/2000/01/rdf-schema#label> "Ro\u00EFdh\u00EDtsa"@el-latn .
+<http://vocab.getty.edu/tgn/8469504> <http://www.w3.org/2000/01/rdf-schema#label> "Xuega"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8469504> <http://www.w3.org/2000/01/rdf-schema#label> "\u5B66\u560E"@zh .
+<http://vocab.getty.edu/tgn/7335204> <http://www.w3.org/2000/01/rdf-schema#label> "Fijuecas" .
+<http://vocab.getty.edu/tgn/2603104> <http://www.w3.org/2000/01/rdf-schema#label> "Quarryville Brook" .
+<http://vocab.getty.edu/tgn/8516304> <http://www.w3.org/2000/01/rdf-schema#label> "Dafangchong"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8516304> <http://www.w3.org/2000/01/rdf-schema#label> "\u5927\u65B9\u51B2"@zh .
+<http://vocab.getty.edu/tgn/8300604> <http://www.w3.org/2000/01/rdf-schema#label> "Houzhuangtou"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8300604> <http://www.w3.org/2000/01/rdf-schema#label> "\u540E\u5E84\u5934"@zh .
+<http://vocab.getty.edu/tgn/1123104> <http://www.w3.org/2000/01/rdf-schema#label> "Coulonge Est" .
+<http://vocab.getty.edu/tgn/7547204> <http://www.w3.org/2000/01/rdf-schema#label> "Benwaliya"@en .
+<http://vocab.getty.edu/tgn/7547204> <http://www.w3.org/2000/01/rdf-schema#label> "Benwalia" .
+<http://vocab.getty.edu/tgn/2582104> <http://www.w3.org/2000/01/rdf-schema#label> "Pine Creek" .
+<http://vocab.getty.edu/tgn/1000404> <http://www.w3.org/2000/01/rdf-schema#label> "Kristianstad" .
+<http://vocab.getty.edu/tgn/1000404> <http://www.w3.org/2000/01/rdf-schema#label> "Kristianstads L\u00E4n" .
+<http://vocab.getty.edu/tgn/8512904> <http://www.w3.org/2000/01/rdf-schema#label> "Zhangzhuang"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8512904> <http://www.w3.org/2000/01/rdf-schema#label> "\u5F20\u5E84"@zh .
+<http://vocab.getty.edu/tgn/2713704> <http://www.w3.org/2000/01/rdf-schema#label> "Teater Spring" .
+<http://vocab.getty.edu/tgn/2169104> <http://www.w3.org/2000/01/rdf-schema#label> "Big Jims Branch" .
+<http://vocab.getty.edu/tgn/2480604> <http://www.w3.org/2000/01/rdf-schema#label> "Lakeman Point" .
+<http://vocab.getty.edu/tgn/8271204> <http://www.w3.org/2000/01/rdf-schema#label> "Dihai"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8271204> <http://www.w3.org/2000/01/rdf-schema#label> "\u72C4\u6D77"@zh .
+<http://vocab.getty.edu/tgn/7418304> <http://www.w3.org/2000/01/rdf-schema#label> "San Roque" .
+<http://vocab.getty.edu/tgn/2311504> <http://www.w3.org/2000/01/rdf-schema#label> "Edna Mine" .
+<http://vocab.getty.edu/tgn/7853504> <http://www.w3.org/2000/01/rdf-schema#label> "Escombe"@en .
+<http://vocab.getty.edu/tgn/2005404> <http://www.w3.org/2000/01/rdf-schema#label> "Sulphur Springs" .
+<http://vocab.getty.edu/tgn/2005404> <http://www.w3.org/2000/01/rdf-schema#label> "Carmichael" .
+<http://vocab.getty.edu/tgn/2530604> <http://www.w3.org/2000/01/rdf-schema#label> "Muddy Creek" .
+<http://vocab.getty.edu/tgn/7369504> <http://www.w3.org/2000/01/rdf-schema#label> "Jabali, Loma del" .
+<http://vocab.getty.edu/tgn/7369504> <http://www.w3.org/2000/01/rdf-schema#label> "Loma del Jabali" .
+<http://vocab.getty.edu/tgn/2555004> <http://www.w3.org/2000/01/rdf-schema#label> "Obion Lake" .
+<http://vocab.getty.edu/tgn/2639004> <http://www.w3.org/2000/01/rdf-schema#label> "Salt Glade Creek" .
+<http://vocab.getty.edu/tgn/8126904> <http://www.w3.org/2000/01/rdf-schema#label> "Xiyan"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8126904> <http://www.w3.org/2000/01/rdf-schema#label> "\u897F\u5F66"@zh .
+<http://vocab.getty.edu/tgn/2760504> <http://www.w3.org/2000/01/rdf-schema#label> "West Fork Three Lakes Canyon" .
+<http://vocab.getty.edu/tgn/8620704> <http://www.w3.org/2000/01/rdf-schema#label> "Jing Jiao"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8064804> <http://www.w3.org/2000/01/rdf-schema#label> "Gaowang"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8064804> <http://www.w3.org/2000/01/rdf-schema#label> "\u9AD8\u65FA"@zh .
+<http://vocab.getty.edu/tgn/1023004> <http://www.w3.org/2000/01/rdf-schema#label> "Santana do Ipanema" .
+<http://vocab.getty.edu/tgn/2636104> <http://www.w3.org/2000/01/rdf-schema#label> "Saddle Mountain" .
+<http://vocab.getty.edu/tgn/7450104> <http://www.w3.org/2000/01/rdf-schema#label> "Gladsmuir"@en .
+<http://vocab.getty.edu/tgn/2380004> <http://www.w3.org/2000/01/rdf-schema#label> "Hatch Tank" .
+<http://vocab.getty.edu/tgn/2095704> <http://www.w3.org/2000/01/rdf-schema#label> "Dunbarton" .
+<http://vocab.getty.edu/tgn/2126304> <http://www.w3.org/2000/01/rdf-schema#label> "Admiral Lake" .
+<http://vocab.getty.edu/tgn/7710704> <http://www.w3.org/2000/01/rdf-schema#label> "K\u00FClek\u00E7ili"@en .
+<http://vocab.getty.edu/tgn/7710704> <http://www.w3.org/2000/01/rdf-schema#label> "K\u00F6lek\u00E7ili" .
+<http://vocab.getty.edu/tgn/2672904> <http://www.w3.org/2000/01/rdf-schema#label> "Snake Creek" .
+<http://vocab.getty.edu/tgn/7148104> <http://www.w3.org/2000/01/rdf-schema#label> "Lange-Berg" .
+<http://vocab.getty.edu/tgn/1116504> <http://www.w3.org/2000/01/rdf-schema#label> "Grimnitzsee" .
+<http://vocab.getty.edu/tgn/7767804> <http://www.w3.org/2000/01/rdf-schema#label> "Warrill View"@en .
+<http://vocab.getty.edu/tgn/2779104> <http://www.w3.org/2000/01/rdf-schema#label> "Wolf Creek" .
+<http://vocab.getty.edu/tgn/8539304> <http://www.w3.org/2000/01/rdf-schema#label> "Wawei"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8539304> <http://www.w3.org/2000/01/rdf-schema#label> "\u6316\u5C3E"@zh .
+<http://vocab.getty.edu/tgn/1084904> <http://www.w3.org/2000/01/rdf-schema#label> "Ra'\u012Bs" .
+<http://vocab.getty.edu/tgn/7748504> <http://www.w3.org/2000/01/rdf-schema#label> "Lap\u00E3o, Ribeira do"@en .
+<http://vocab.getty.edu/tgn/7748504> <http://www.w3.org/2000/01/rdf-schema#label> "Ribeira do Lap\u00E3o" .
+<http://vocab.getty.edu/tgn/8482904> <http://www.w3.org/2000/01/rdf-schema#label> "Shadiguai"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8482904> <http://www.w3.org/2000/01/rdf-schema#label> "\u6C99\u5824\u62D0"@zh .
+<http://vocab.getty.edu/tgn/7744804> <http://www.w3.org/2000/01/rdf-schema#label> "Arneiro, Pinhal do"@en .
+<http://vocab.getty.edu/tgn/7744804> <http://www.w3.org/2000/01/rdf-schema#label> "Pinhal do Arneiro" .
+<http://vocab.getty.edu/tgn/2705104> <http://www.w3.org/2000/01/rdf-schema#label> "Sunshine Mine" .
+<http://vocab.getty.edu/tgn/8132904> <http://www.w3.org/2000/01/rdf-schema#label> "Benglong"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8132904> <http://www.w3.org/2000/01/rdf-schema#label> "\u5D29\u9F99"@zh .
+<http://vocab.getty.edu/tgn/2743404> <http://www.w3.org/2000/01/rdf-schema#label> "Vantage Park" .
+<http://vocab.getty.edu/tgn/8069504> <http://www.w3.org/2000/01/rdf-schema#label> "Wangzhuang"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8069504> <http://www.w3.org/2000/01/rdf-schema#label> "\u738B\u5E84"@zh .
+<http://vocab.getty.edu/tgn/2208204> <http://www.w3.org/2000/01/rdf-schema#label> "Burley Hill" .
+<http://vocab.getty.edu/tgn/2346504> <http://www.w3.org/2000/01/rdf-schema#label> "Gavilan Tank" .
+<http://vocab.getty.edu/tgn/8678204> <http://www.w3.org/2000/01/rdf-schema#label> "Sidu"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8678204> <http://www.w3.org/2000/01/rdf-schema#label> "\u6CD7\u6E21"@zh .
+<http://vocab.getty.edu/tgn/2132204> <http://www.w3.org/2000/01/rdf-schema#label> "Ames Cove" .
+<http://vocab.getty.edu/tgn/7260904> <http://www.w3.org/2000/01/rdf-schema#label> "Driewegen"@nl .
+<http://vocab.getty.edu/tgn/7678204> <http://www.w3.org/2000/01/rdf-schema#label> "Danac\u0131lar"@tr .
+<http://vocab.getty.edu/tgn/2558304> <http://www.w3.org/2000/01/rdf-schema#label> "Ole Mine" .
+<http://vocab.getty.edu/tgn/2558304> <http://www.w3.org/2000/01/rdf-schema#label> "Big Thing Mine" .
+<http://vocab.getty.edu/tgn/8153104> <http://www.w3.org/2000/01/rdf-schema#label> "Jianguo"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8153104> <http://www.w3.org/2000/01/rdf-schema#label> "Jianguo Xiang"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8153104> <http://www.w3.org/2000/01/rdf-schema#label> "\u5EFA\u56FD"@zh .
+<http://vocab.getty.edu/tgn/8153104> <http://www.w3.org/2000/01/rdf-schema#label> "\u5EFA\u56FD\u4E61"@zh .
+<http://vocab.getty.edu/tgn/8360104> <http://www.w3.org/2000/01/rdf-schema#label> "Mabozi"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8360104> <http://www.w3.org/2000/01/rdf-schema#label> "\u9A6C\u8116\u5B50"@zh .
+<http://vocab.getty.edu/tgn/2735104> <http://www.w3.org/2000/01/rdf-schema#label> "Twentymile Creek" .
+<http://vocab.getty.edu/tgn/1016304> <http://www.w3.org/2000/01/rdf-schema#label> "B\u00E1ez" .
+<http://vocab.getty.edu/tgn/7999504> <http://www.w3.org/2000/01/rdf-schema#label> "Umarai"@en .
+<http://vocab.getty.edu/tgn/8017404> <http://www.w3.org/2000/01/rdf-schema#label> "Jilga Militia Post"@en .
+<http://vocab.getty.edu/tgn/8641504> <http://www.w3.org/2000/01/rdf-schema#label> "Yangjiabang"@zh-latn .
+<http://vocab.getty.edu/tgn/8641504> <http://www.w3.org/2000/01/rdf-schema#label> "\u6768\u5BB6\u6D5C"@zh .
+<http://vocab.getty.edu/tgn/7037204> <http://www.w3.org/2000/01/rdf-schema#label> "Veticoso, Monte" .
+<http://vocab.getty.edu/tgn/7037204> <http://www.w3.org/2000/01/rdf-schema#label> "Monte Veticoso" .
+<http://vocab.getty.edu/tgn/8664504> <http://www.w3.org/2000/01/rdf-schema#label> "Fujia Buzi"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8664504> <http://www.w3.org/2000/01/rdf-schema#label> "Fujia Baozi"@zh-latn .
+<http://vocab.getty.edu/tgn/8664504> <http://www.w3.org/2000/01/rdf-schema#label> "\u4ED8\u5BB6\u5821\u5B50"@zh .
+<http://vocab.getty.edu/tgn/7878304> <http://www.w3.org/2000/01/rdf-schema#label> "Ballyelly"@en .
+<http://vocab.getty.edu/tgn/8592104> <http://www.w3.org/2000/01/rdf-schema#label> "Shexing'ao"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/7385404> <http://www.w3.org/2000/01/rdf-schema#label> "Ojo de Agua de los Muchachos" .
+<http://vocab.getty.edu/tgn/2290004> <http://www.w3.org/2000/01/rdf-schema#label> "Docs Point" .
+<http://vocab.getty.edu/tgn/2608104> <http://www.w3.org/2000/01/rdf-schema#label> "Rattlesnake Bead" .
+<http://vocab.getty.edu/tgn/2608104> <http://www.w3.org/2000/01/rdf-schema#label> "Rattlesnake Crossing" .
+<http://vocab.getty.edu/tgn/2738804> <http://www.w3.org/2000/01/rdf-schema#label> "Union Hill" .
+<http://vocab.getty.edu/tgn/7164904> <http://www.w3.org/2000/01/rdf-schema#label> "H\u00F6nderbruch" .
+<http://vocab.getty.edu/tgn/2635504> <http://www.w3.org/2000/01/rdf-schema#label> "SW NE Section 12 Mine" .
+<http://vocab.getty.edu/tgn/7985104> <http://www.w3.org/2000/01/rdf-schema#label> "Kallarw\u0101li"@en .
+<http://vocab.getty.edu/tgn/2698004> <http://www.w3.org/2000/01/rdf-schema#label> "Stout Hollow" .
+<http://vocab.getty.edu/tgn/8091404> <http://www.w3.org/2000/01/rdf-schema#label> "Baleng"@zh-latn .
+<http://vocab.getty.edu/tgn/8091404> <http://www.w3.org/2000/01/rdf-schema#label> "\u516B\u68F1"@zh .
+<http://vocab.getty.edu/tgn/7967404> <http://www.w3.org/2000/01/rdf-schema#label> "Teli Kalla"@en .
+<http://vocab.getty.edu/tgn/7967404> <http://www.w3.org/2000/01/rdf-schema#label> "Teli" .
+<http://vocab.getty.edu/tgn/2224804> <http://www.w3.org/2000/01/rdf-schema#label> "Casner Mountain Tank" .
+<http://vocab.getty.edu/tgn/2224804> <http://www.w3.org/2000/01/rdf-schema#label> "Casner Tank" .
+<http://vocab.getty.edu/tgn/7213004> <http://www.w3.org/2000/01/rdf-schema#label> "Bockey" .
+<http://vocab.getty.edu/tgn/2584904> <http://www.w3.org/2000/01/rdf-schema#label> "Pinkston Canyon" .
+<http://vocab.getty.edu/tgn/8044204> <http://www.w3.org/2000/01/rdf-schema#label> "Shekh Bela"@en .
+<http://vocab.getty.edu/tgn/7731804> <http://www.w3.org/2000/01/rdf-schema#label> "Bozb\u00FCk"@tr .
+<http://vocab.getty.edu/tgn/2551004> <http://www.w3.org/2000/01/rdf-schema#label> "Nottbusch Wash" .
+<http://vocab.getty.edu/tgn/7039904> <http://www.w3.org/2000/01/rdf-schema#label> "Segno, Fosso" .
+<http://vocab.getty.edu/tgn/7039904> <http://www.w3.org/2000/01/rdf-schema#label> "Fosso Segno" .
+<http://vocab.getty.edu/tgn/2714604> <http://www.w3.org/2000/01/rdf-schema#label> "Ten Mile Grange" .
+<http://vocab.getty.edu/tgn/7881304> <http://www.w3.org/2000/01/rdf-schema#label> "Spring Hill"@en .
+<http://vocab.getty.edu/tgn/7507504> <http://www.w3.org/2000/01/rdf-schema#label> "Priestly, Mount"@en .
+<http://vocab.getty.edu/tgn/7507504> <http://www.w3.org/2000/01/rdf-schema#label> "Mount Priestly" .
+<http://vocab.getty.edu/tgn/7995804> <http://www.w3.org/2000/01/rdf-schema#label> "M\u0101hiw\u0101la"@en .
+<http://vocab.getty.edu/tgn/7828804> <http://www.w3.org/2000/01/rdf-schema#label> "Rangers Valley"@en .
+<http://vocab.getty.edu/tgn/7046004> <http://www.w3.org/2000/01/rdf-schema#label> "Castagneto" .
+<http://vocab.getty.edu/tgn/7334504> <http://www.w3.org/2000/01/rdf-schema#label> "El Herrad\u00F3n" .
+<http://vocab.getty.edu/tgn/7334504> <http://www.w3.org/2000/01/rdf-schema#label> "Herrad\u00F3n" .
+<http://vocab.getty.edu/tgn/8175104> <http://www.w3.org/2000/01/rdf-schema#label> "Shangkan"@zh-latn .
+<http://vocab.getty.edu/tgn/8175104> <http://www.w3.org/2000/01/rdf-schema#label> "\u4E0A\u574E"@zh .
+<http://vocab.getty.edu/tgn/8559504> <http://www.w3.org/2000/01/rdf-schema#label> "Wolongtun"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8559504> <http://www.w3.org/2000/01/rdf-schema#label> "\u5367\u9F99\u5C6F"@zh .
+<http://vocab.getty.edu/tgn/7570204> <http://www.w3.org/2000/01/rdf-schema#label> "Chand\u016Br"@en .
+<http://vocab.getty.edu/tgn/7201304> <http://www.w3.org/2000/01/rdf-schema#label> "B\u00F6rm" .
+<http://vocab.getty.edu/tgn/8681904> <http://www.w3.org/2000/01/rdf-schema#label> "Wenbo"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8681904> <http://www.w3.org/2000/01/rdf-schema#label> "Wenbo Xiang"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8681904> <http://www.w3.org/2000/01/rdf-schema#label> "Omba Gomba"@zh-latn .
+<http://vocab.getty.edu/tgn/8681904> <http://www.w3.org/2000/01/rdf-schema#label> "\u6E29\u6CE2"@zh .
+<http://vocab.getty.edu/tgn/8681904> <http://www.w3.org/2000/01/rdf-schema#label> "Ombu Gomba"@zh-latn .
+<http://vocab.getty.edu/tgn/8681904> <http://www.w3.org/2000/01/rdf-schema#label> "Ombu Gompa"@zh-latn .
+<http://vocab.getty.edu/tgn/8681904> <http://www.w3.org/2000/01/rdf-schema#label> "Weng-pu"@zh-latn .
+<http://vocab.getty.edu/tgn/8681904> <http://www.w3.org/2000/01/rdf-schema#label> "Weng-pu-ssu"@zh-latn .
+<http://vocab.getty.edu/tgn/8681904> <http://www.w3.org/2000/01/rdf-schema#label> "Wen-po-cha-i Ssu"@zh-latn .
+<http://vocab.getty.edu/tgn/8681904> <http://www.w3.org/2000/01/rdf-schema#label> "Wen-po-ssu"@zh-latn .
+<http://vocab.getty.edu/tgn/8681904> <http://www.w3.org/2000/01/rdf-schema#label> "Wen-po-tsa-ssu-ts'un"@zh-latn .
+<http://vocab.getty.edu/tgn/8681904> <http://www.w3.org/2000/01/rdf-schema#label> "Woinbo"@zh-latn .
+<http://vocab.getty.edu/tgn/8681904> <http://www.w3.org/2000/01/rdf-schema#label> "Woinbogoin"@zh-latn .
+<http://vocab.getty.edu/tgn/8681904> <http://www.w3.org/2000/01/rdf-schema#label> "\u6E29\u6CE2\u4E61"@zh .
+<http://vocab.getty.edu/tgn/7680304> <http://www.w3.org/2000/01/rdf-schema#label> "D\u00FCnd\u00FCl Deresi"@tr .
+<http://vocab.getty.edu/tgn/1125904> <http://www.w3.org/2000/01/rdf-schema#label> "Labo" .
+<http://vocab.getty.edu/tgn/1125904> <http://www.w3.org/2000/01/rdf-schema#label> "Labo River" .
+<http://vocab.getty.edu/tgn/7671304> <http://www.w3.org/2000/01/rdf-schema#label> "D\u00F6kmeta\u015F"@tr .
+<http://vocab.getty.edu/tgn/2204204> <http://www.w3.org/2000/01/rdf-schema#label> "Buena Vista Mountain" .
+<http://vocab.getty.edu/tgn/7491504> <http://www.w3.org/2000/01/rdf-schema#label> "Sanye Gong Xi"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/7491504> <http://www.w3.org/2000/01/rdf-schema#label> "Sanye Gong Si"@zh-latn .
+<http://vocab.getty.edu/tgn/7491504> <http://www.w3.org/2000/01/rdf-schema#label> "San-yeh Kuan Ch'i"@zh-latn .
+<http://vocab.getty.edu/tgn/7491504> <http://www.w3.org/2000/01/rdf-schema#label> "San-yeh Kung Ch'i"@zh-latn .
+<http://vocab.getty.edu/tgn/7491504> <http://www.w3.org/2000/01/rdf-schema#label> "San-yeh Kung Hsi"@zh-latn .
+<http://vocab.getty.edu/tgn/7491504> <http://www.w3.org/2000/01/rdf-schema#label> "\u4E09\u723A\u5BAE\u6EAA"@zh .
+<http://vocab.getty.edu/tgn/2223304> <http://www.w3.org/2000/01/rdf-schema#label> "Carson Branch" .
+<http://vocab.getty.edu/tgn/2698204> <http://www.w3.org/2000/01/rdf-schema#label> "Stow Acres" .
+<http://vocab.getty.edu/tgn/2755904> <http://www.w3.org/2000/01/rdf-schema#label> "Weepecket Island" .
+<http://vocab.getty.edu/tgn/2755904> <http://www.w3.org/2000/01/rdf-schema#label> "Wapecket Islands" .
+<http://vocab.getty.edu/tgn/2755904> <http://www.w3.org/2000/01/rdf-schema#label> "Wepecket Island" .
+<http://vocab.getty.edu/tgn/2755904> <http://www.w3.org/2000/01/rdf-schema#label> "Woepecket Island" .
+<http://vocab.getty.edu/tgn/7541004> <http://www.w3.org/2000/01/rdf-schema#label> "Tur'at al 'A\u0163f"@ar-latn .
+<http://vocab.getty.edu/tgn/7541004> <http://www.w3.org/2000/01/rdf-schema#label> "'A\u0163f, Tur'at al"@ar-latn .
+<http://vocab.getty.edu/tgn/7541004> <http://www.w3.org/2000/01/rdf-schema#label> "\u062A\u0631\u0639\u0629 \u0627\u0644\u0639\u0637\u0641"@ar .
+<http://vocab.getty.edu/tgn/8088204> <http://www.w3.org/2000/01/rdf-schema#label> "Lutangcun"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8088204> <http://www.w3.org/2000/01/rdf-schema#label> "\u82A6\u5858\u6751"@zh .
+<http://vocab.getty.edu/tgn/8474404> <http://www.w3.org/2000/01/rdf-schema#label> "Gaibulangcun"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8474404> <http://www.w3.org/2000/01/rdf-schema#label> "\u6539\u5E03\u6717\u6751"@zh .
+<http://vocab.getty.edu/tgn/2158604> <http://www.w3.org/2000/01/rdf-schema#label> "Beaverdam Springs" .
+<http://vocab.getty.edu/tgn/2222404> <http://www.w3.org/2000/01/rdf-schema#label> "Carpenter Branch" .
+<http://vocab.getty.edu/tgn/7884104> <http://www.w3.org/2000/01/rdf-schema#label> "Greenhall"@en .
+<http://vocab.getty.edu/tgn/7933604> <http://www.w3.org/2000/01/rdf-schema#label> "Punjab Colony"@en .
+<http://vocab.getty.edu/tgn/7600104> <http://www.w3.org/2000/01/rdf-schema#label> "Ch\u00E2teau de Villeroy"@en .
+<http://vocab.getty.edu/tgn/7600104> <http://www.w3.org/2000/01/rdf-schema#label> "Le Ch\u00E2teau de Villeroy" .
+<http://vocab.getty.edu/tgn/7600104> <http://www.w3.org/2000/01/rdf-schema#label> "Villeroy, Ch\u00E2teau de" .
+<http://vocab.getty.edu/tgn/7600104> <http://www.w3.org/2000/01/rdf-schema#label> "Villeroy, Le Ch\u00E2teau de" .
+<http://vocab.getty.edu/tgn/8319504> <http://www.w3.org/2000/01/rdf-schema#label> "Dengming"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8319504> <http://www.w3.org/2000/01/rdf-schema#label> "\u767B\u660E"@zh .
+<http://vocab.getty.edu/tgn/2151704> <http://www.w3.org/2000/01/rdf-schema#label> "Battle Creek Mountain" .
+<http://vocab.getty.edu/tgn/7871304> <http://www.w3.org/2000/01/rdf-schema#label> "Ampdale Station"@en .
+<http://vocab.getty.edu/tgn/7871304> <http://www.w3.org/2000/01/rdf-schema#label> "Ampdale" .
+<http://vocab.getty.edu/tgn/2350104> <http://www.w3.org/2000/01/rdf-schema#label> "Gimlet Branch" .
+<http://vocab.getty.edu/tgn/7472704> <http://www.w3.org/2000/01/rdf-schema#label> "Dong'ao"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/7472704> <http://www.w3.org/2000/01/rdf-schema#label> "Tung-ao"@zh-latn .
+<http://vocab.getty.edu/tgn/7472704> <http://www.w3.org/2000/01/rdf-schema#label> "\u6771\u6FB3"@zh .
+<http://vocab.getty.edu/tgn/2609504> <http://www.w3.org/2000/01/rdf-schema#label> "Raymond Neck" .
+<http://vocab.getty.edu/tgn/7136604> <http://www.w3.org/2000/01/rdf-schema#label> "Lesse" .
+<http://vocab.getty.edu/tgn/8675004> <http://www.w3.org/2000/01/rdf-schema#label> "Xiaogan"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8675004> <http://www.w3.org/2000/01/rdf-schema#label> "Xiaogan Shi"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8675004> <http://www.w3.org/2000/01/rdf-schema#label> "\u5B5D\u611F"@zh .
+<http://vocab.getty.edu/tgn/8675004> <http://www.w3.org/2000/01/rdf-schema#label> "Hsiao-kan Chuan-ch'\u00FC"@zh-latn .
+<http://vocab.getty.edu/tgn/8675004> <http://www.w3.org/2000/01/rdf-schema#label> "Hsiao-kan Hsien"@zh-latn .
+<http://vocab.getty.edu/tgn/8675004> <http://www.w3.org/2000/01/rdf-schema#label> "Hsiao-kan Ti-ch'\u00FC"@zh-latn .
+<http://vocab.getty.edu/tgn/8675004> <http://www.w3.org/2000/01/rdf-schema#label> "Xiaogan Xian"@zh-latn .
+<http://vocab.getty.edu/tgn/8675004> <http://www.w3.org/2000/01/rdf-schema#label> "\u5B5D\u611F\u5E02"@zh .
+<http://vocab.getty.edu/tgn/7695004> <http://www.w3.org/2000/01/rdf-schema#label> "Mesecik"@tr .
+<http://vocab.getty.edu/tgn/7467404> <http://www.w3.org/2000/01/rdf-schema#label> "Jiantan Shan"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/7467404> <http://www.w3.org/2000/01/rdf-schema#label> "Chen-t'an Shan"@zh-latn .
+<http://vocab.getty.edu/tgn/7467404> <http://www.w3.org/2000/01/rdf-schema#label> "Chien-t'an Shan"@zh-latn .
+<http://vocab.getty.edu/tgn/7467404> <http://www.w3.org/2000/01/rdf-schema#label> "\u528D\u6F6D\u5C71"@zh .
+<http://vocab.getty.edu/tgn/2362404> <http://www.w3.org/2000/01/rdf-schema#label> "Greasewood Draw" .
+<http://vocab.getty.edu/tgn/7019204> <http://www.w3.org/2000/01/rdf-schema#label> "Cookstown"@en .
+<http://vocab.getty.edu/tgn/7019204> <http://www.w3.org/2000/01/rdf-schema#label> "Cookstown District"@en .
+<http://vocab.getty.edu/tgn/7948604> <http://www.w3.org/2000/01/rdf-schema#label> "G\u0101heja"@en .
+<http://vocab.getty.edu/tgn/1118504> <http://www.w3.org/2000/01/rdf-schema#label> "Ulubat G\u00F6l\u00FC"@tr .
+<http://vocab.getty.edu/tgn/1118504> <http://www.w3.org/2000/01/rdf-schema#label> "Apolyent Golu" .
+<http://vocab.getty.edu/tgn/1118504> <http://www.w3.org/2000/01/rdf-schema#label> "Apolyont G\u00F6l\u00FC" .
+<http://vocab.getty.edu/tgn/1118504> <http://www.w3.org/2000/01/rdf-schema#label> "Apulyont G\u00F6l\u00FC" .
+<http://vocab.getty.edu/tgn/1118504> <http://www.w3.org/2000/01/rdf-schema#label> "Ulu Dat Golu"@en .
+<http://vocab.getty.edu/tgn/7555204> <http://www.w3.org/2000/01/rdf-schema#label> "N\u0101mik"@en .
+<http://vocab.getty.edu/tgn/7580904> <http://www.w3.org/2000/01/rdf-schema#label> "Tilvalli"@en .
+<http://vocab.getty.edu/tgn/1053804> <http://www.w3.org/2000/01/rdf-schema#label> "Dymer" .
+<http://vocab.getty.edu/tgn/8267904> <http://www.w3.org/2000/01/rdf-schema#label> "Boluona Lule"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8267904> <http://www.w3.org/2000/01/rdf-schema#label> "\u6CE2\u6D1B\u7EB3\u9C81\u52D2"@zh .
+<http://vocab.getty.edu/tgn/8194304> <http://www.w3.org/2000/01/rdf-schema#label> "Baixianzhou"@zh-latn .
+<http://vocab.getty.edu/tgn/8194304> <http://www.w3.org/2000/01/rdf-schema#label> "\u767D\u9E47\u6D32"@zh .
+<http://vocab.getty.edu/tgn/2298104> <http://www.w3.org/2000/01/rdf-schema#label> "Dry Lake" .
+<http://vocab.getty.edu/tgn/8467404> <http://www.w3.org/2000/01/rdf-schema#label> "Nei Xincun"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8467404> <http://www.w3.org/2000/01/rdf-schema#label> "\u5185\u897F\u6751"@zh .
+<http://vocab.getty.edu/tgn/8342504> <http://www.w3.org/2000/01/rdf-schema#label> "Namo"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8342504> <http://www.w3.org/2000/01/rdf-schema#label> "\u90A3\u78E8"@zh .
+<http://vocab.getty.edu/tgn/1038804> <http://www.w3.org/2000/01/rdf-schema#label> "Diepholz" .
+<http://vocab.getty.edu/tgn/7311804> <http://www.w3.org/2000/01/rdf-schema#label> "Las Minillas" .
+<http://vocab.getty.edu/tgn/7362104> <http://www.w3.org/2000/01/rdf-schema#label> "Rancho El Derramadero" .
+<http://vocab.getty.edu/tgn/7362104> <http://www.w3.org/2000/01/rdf-schema#label> "El Derramadero, Rancho" .
+<http://vocab.getty.edu/tgn/7673804> <http://www.w3.org/2000/01/rdf-schema#label> "Se\u011Fergenyer S\u0131rt\u0131"@en .
+<http://vocab.getty.edu/tgn/2111004> <http://www.w3.org/2000/01/rdf-schema#label> "Cedon" .
+<http://vocab.getty.edu/tgn/7702204> <http://www.w3.org/2000/01/rdf-schema#label> "Tatarisl\u00E2m"@en .
+<http://vocab.getty.edu/tgn/7791904> <http://www.w3.org/2000/01/rdf-schema#label> "Waroonee Hill"@en .
+<http://vocab.getty.edu/tgn/7548004> <http://www.w3.org/2000/01/rdf-schema#label> "B\u0101nsura"@en .
+<http://vocab.getty.edu/tgn/7189404> <http://www.w3.org/2000/01/rdf-schema#label> "Enzlar" .
+<http://vocab.getty.edu/tgn/8267704> <http://www.w3.org/2000/01/rdf-schema#label> "Beijia"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8267704> <http://www.w3.org/2000/01/rdf-schema#label> "\u5317\u7532"@zh .
+<http://vocab.getty.edu/tgn/7356004> <http://www.w3.org/2000/01/rdf-schema#label> "Cerrito de Zavala" .
+<http://vocab.getty.edu/tgn/2769604> <http://www.w3.org/2000/01/rdf-schema#label> "Widows Creek Station" .
+<http://vocab.getty.edu/tgn/7355504> <http://www.w3.org/2000/01/rdf-schema#label> "San Antonio" .
+<http://vocab.getty.edu/tgn/7355504> <http://www.w3.org/2000/01/rdf-schema#label> "Capilla" .
+<http://vocab.getty.edu/tgn/7355504> <http://www.w3.org/2000/01/rdf-schema#label> "Cepillos" .
+<http://vocab.getty.edu/tgn/7512604> <http://www.w3.org/2000/01/rdf-schema#label> "Hokitika River"@en .
+<http://vocab.getty.edu/tgn/7512604> <http://www.w3.org/2000/01/rdf-schema#label> "Brunner" .
+<http://vocab.getty.edu/tgn/7512604> <http://www.w3.org/2000/01/rdf-schema#label> "Hokitika" .
+<http://vocab.getty.edu/tgn/7512604> <http://www.w3.org/2000/01/rdf-schema#label> "Hokitiki River" .
+<http://vocab.getty.edu/tgn/7435204> <http://www.w3.org/2000/01/rdf-schema#label> "Vallecitos" .
+<http://vocab.getty.edu/tgn/8290104> <http://www.w3.org/2000/01/rdf-schema#label> "Dazhai"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8290104> <http://www.w3.org/2000/01/rdf-schema#label> "\u5927\u5BE8"@zh .
+<http://vocab.getty.edu/tgn/2274104> <http://www.w3.org/2000/01/rdf-schema#label> "Dailey Creek" .
+<http://vocab.getty.edu/tgn/8018804> <http://www.w3.org/2000/01/rdf-schema#label> "Zarif Kh\u0101n"@en .
+<http://vocab.getty.edu/tgn/2002604> <http://www.w3.org/2000/01/rdf-schema#label> "Beason Mill" .
+<http://vocab.getty.edu/tgn/2002604> <http://www.w3.org/2000/01/rdf-schema#label> "Beasons Mill" .
+<http://vocab.getty.edu/tgn/7735104> <http://www.w3.org/2000/01/rdf-schema#label> "Bah\u00E7edere"@en .
+<http://vocab.getty.edu/tgn/7735104> <http://www.w3.org/2000/01/rdf-schema#label> "\u0130manlar" .
+<http://vocab.getty.edu/tgn/7737804> <http://www.w3.org/2000/01/rdf-schema#label> "A\u011F\u0131zlar"@en .
+<http://vocab.getty.edu/tgn/8650204> <http://www.w3.org/2000/01/rdf-schema#label> "Tanyu"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8650204> <http://www.w3.org/2000/01/rdf-schema#label> "\u70AD\u5CEA"@zh .
+<http://vocab.getty.edu/tgn/1065404> <http://www.w3.org/2000/01/rdf-schema#label> "Chakh\u0101ns\u016Br" .
+<http://vocab.getty.edu/tgn/1065404> <http://www.w3.org/2000/01/rdf-schema#label> "Chakhansur" .
+<http://vocab.getty.edu/tgn/8637204> <http://www.w3.org/2000/01/rdf-schema#label> "Tianwei Shuiku"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8637204> <http://www.w3.org/2000/01/rdf-schema#label> "\u7530\u5C3E\u6C34\u5E93"@zh .
+<http://vocab.getty.edu/tgn/7871604> <http://www.w3.org/2000/01/rdf-schema#label> "Allies Creek"@en .
+<http://vocab.getty.edu/tgn/7063704> <http://www.w3.org/2000/01/rdf-schema#label> "Auling" .
+<http://vocab.getty.edu/tgn/2594004> <http://www.w3.org/2000/01/rdf-schema#label> "Portage Brook" .
+<http://vocab.getty.edu/tgn/8595304> <http://www.w3.org/2000/01/rdf-schema#label> "Hengkeng"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8595304> <http://www.w3.org/2000/01/rdf-schema#label> "\u6A2A\u5751"@zh .
+<http://vocab.getty.edu/tgn/2244904> <http://www.w3.org/2000/01/rdf-schema#label> "Cloutman Ridge" .
+<http://vocab.getty.edu/tgn/7839204> <http://www.w3.org/2000/01/rdf-schema#label> "Marsh Reef"@en .
+<http://vocab.getty.edu/tgn/7429404> <http://www.w3.org/2000/01/rdf-schema#label> "Canoas" .
+<http://vocab.getty.edu/tgn/2632204> <http://www.w3.org/2000/01/rdf-schema#label> "Rowley Canyon" .
+<http://vocab.getty.edu/tgn/2482604> <http://www.w3.org/2000/01/rdf-schema#label> "Laporte, Bayou" .
+<http://vocab.getty.edu/tgn/2482604> <http://www.w3.org/2000/01/rdf-schema#label> "Bayou Laporte" .
+<http://vocab.getty.edu/tgn/8105504> <http://www.w3.org/2000/01/rdf-schema#label> "Xinfatun"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8105504> <http://www.w3.org/2000/01/rdf-schema#label> "\u65B0\u53D1\u5C6F"@zh .
+<http://vocab.getty.edu/tgn/8697004> <http://www.w3.org/2000/01/rdf-schema#label> "Henggang"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8697004> <http://www.w3.org/2000/01/rdf-schema#label> "\u6A2A\u5C97"@zh .
+<http://vocab.getty.edu/tgn/1035704> <http://www.w3.org/2000/01/rdf-schema#label> "Sermaises" .
+<http://vocab.getty.edu/tgn/7960404> <http://www.w3.org/2000/01/rdf-schema#label> "Shingri Kaur"@en .
+<http://vocab.getty.edu/tgn/7907604> <http://www.w3.org/2000/01/rdf-schema#label> "Far\u012Bdke"@en .
+<http://vocab.getty.edu/tgn/7769704> <http://www.w3.org/2000/01/rdf-schema#label> "Corses Lagoon"@en .
+<http://vocab.getty.edu/tgn/2631604> <http://www.w3.org/2000/01/rdf-schema#label> "Round Top Mountain" .
+<http://vocab.getty.edu/tgn/7783204> <http://www.w3.org/2000/01/rdf-schema#label> "Coffs Harbour Cemetery"@en .
+<http://vocab.getty.edu/tgn/7847004> <http://www.w3.org/2000/01/rdf-schema#label> "Kennedy Creek"@en .
+<http://vocab.getty.edu/tgn/8020004> <http://www.w3.org/2000/01/rdf-schema#label> "B\u0101n Dran"@en .
+<http://vocab.getty.edu/tgn/2510204> <http://www.w3.org/2000/01/rdf-schema#label> "Middle Reservoir" .
+<http://vocab.getty.edu/tgn/7538304> <http://www.w3.org/2000/01/rdf-schema#label> "Shij\u0101rah, \u0162awq ash"@en .
+<http://vocab.getty.edu/tgn/7538304> <http://www.w3.org/2000/01/rdf-schema#label> "El Shigara" .
+<http://vocab.getty.edu/tgn/7538304> <http://www.w3.org/2000/01/rdf-schema#label> "Qaret el Shig\u00E2ra" .
+<http://vocab.getty.edu/tgn/7538304> <http://www.w3.org/2000/01/rdf-schema#label> "Shig\u00E2ra, Qaret el" .
+<http://vocab.getty.edu/tgn/7538304> <http://www.w3.org/2000/01/rdf-schema#label> "Shig\u00E2ra, \u1E6Cuq el" .
+<http://vocab.getty.edu/tgn/7538304> <http://www.w3.org/2000/01/rdf-schema#label> "Shig\u0101ra, Tuq esh" .
+<http://vocab.getty.edu/tgn/7538304> <http://www.w3.org/2000/01/rdf-schema#label> "\u0162awq ash Shij\u0101rah" .
+<http://vocab.getty.edu/tgn/7538304> <http://www.w3.org/2000/01/rdf-schema#label> "\u1E6Cuq el Shig\u00E2ra" .
+<http://vocab.getty.edu/tgn/7538304> <http://www.w3.org/2000/01/rdf-schema#label> "Tuq esh Shig\u0101ra" .
+<http://vocab.getty.edu/tgn/8582804> <http://www.w3.org/2000/01/rdf-schema#label> "Zengcun"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8582804> <http://www.w3.org/2000/01/rdf-schema#label> "\u589E\u6751"@zh .
+<http://vocab.getty.edu/tgn/8582804> <http://www.w3.org/2000/01/rdf-schema#label> "Zengcun Zhen"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8582804> <http://www.w3.org/2000/01/rdf-schema#label> "\u589E\u6751\u9547"@zh .
+<http://vocab.getty.edu/tgn/8329804> <http://www.w3.org/2000/01/rdf-schema#label> "Dawokou"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8329804> <http://www.w3.org/2000/01/rdf-schema#label> "\u5927\u7A9D\u53E3"@zh .
+<http://vocab.getty.edu/tgn/7325104> <http://www.w3.org/2000/01/rdf-schema#label> "San Cipri\u00E1n de Llad\u00F3" .
+<http://vocab.getty.edu/tgn/7631004> <http://www.w3.org/2000/01/rdf-schema#label> "Le Sart"@en .
+<http://vocab.getty.edu/tgn/7631004> <http://www.w3.org/2000/01/rdf-schema#label> "Le Sart-en-Thi\u00E9rache" .
+<http://vocab.getty.edu/tgn/7610604> <http://www.w3.org/2000/01/rdf-schema#label> "Rozier-en-Donzy"@en .
+<http://vocab.getty.edu/tgn/7610604> <http://www.w3.org/2000/01/rdf-schema#label> "Rozier" .
+<http://vocab.getty.edu/tgn/7429304> <http://www.w3.org/2000/01/rdf-schema#label> "El Caballo, R\u00EDo" .
+<http://vocab.getty.edu/tgn/7429304> <http://www.w3.org/2000/01/rdf-schema#label> "R\u00EDo El Caballo" .
+<http://vocab.getty.edu/tgn/7080604> <http://www.w3.org/2000/01/rdf-schema#label> "Wohsen" .
+<http://vocab.getty.edu/tgn/2706304> <http://www.w3.org/2000/01/rdf-schema#label> "Jones Lake" .
+<http://vocab.getty.edu/tgn/2706304> <http://www.w3.org/2000/01/rdf-schema#label> "Swamp Lake" .
+<http://vocab.getty.edu/tgn/2139804> <http://www.w3.org/2000/01/rdf-schema#label> "Atkinson Lake" .
+<http://vocab.getty.edu/tgn/8195104> <http://www.w3.org/2000/01/rdf-schema#label> "Dingzijie"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8195104> <http://www.w3.org/2000/01/rdf-schema#label> "\u4E01\u5B57\u8857"@zh .
+<http://vocab.getty.edu/tgn/2760304> <http://www.w3.org/2000/01/rdf-schema#label> "West Fork Sand Creek" .
+<http://vocab.getty.edu/tgn/7273404> <http://www.w3.org/2000/01/rdf-schema#label> "Westmaas-Nieuwland, Polder het"@nl .
+<http://vocab.getty.edu/tgn/7273404> <http://www.w3.org/2000/01/rdf-schema#label> "Polder het Westmaas-Nieuwland"@nl .
+<http://vocab.getty.edu/tgn/2491004> <http://www.w3.org/2000/01/rdf-schema#label> "Mantua Gulch" .
+<http://vocab.getty.edu/tgn/8027204> <http://www.w3.org/2000/01/rdf-schema#label> "Sperkai B\u0101nda"@en .
+<http://vocab.getty.edu/tgn/7714904> <http://www.w3.org/2000/01/rdf-schema#label> "Kiraz Burnu"@en .
+<http://vocab.getty.edu/tgn/7714904> <http://www.w3.org/2000/01/rdf-schema#label> "Kiraz Burun" .
+<http://vocab.getty.edu/tgn/7001504> <http://www.w3.org/2000/01/rdf-schema#label> "Bengal\u016Bru"@en .
+<http://vocab.getty.edu/tgn/7001504> <http://www.w3.org/2000/01/rdf-schema#label> "Bangalore"@en .
+<http://vocab.getty.edu/tgn/7001504> <http://www.w3.org/2000/01/rdf-schema#label> "Bangalur" .
+<http://vocab.getty.edu/tgn/7001504> <http://www.w3.org/2000/01/rdf-schema#label> "Bangalore City" .
+<http://vocab.getty.edu/tgn/7001504> <http://www.w3.org/2000/01/rdf-schema#label> "Bengalooru"@kn-latn .
+<http://vocab.getty.edu/tgn/7001504> <http://www.w3.org/2000/01/rdf-schema#label> "\u0CAC\u0CC6\u0C82\u0C97\uFFFD\uFFFD\u00B3\u00E0\u00B3\u0082\u00E0\u00B2\u00B0\u00E0\u00B3\u0081"@kn .
+<http://vocab.getty.edu/tgn/7689004> <http://www.w3.org/2000/01/rdf-schema#label> "K\u0131ranl\u0131k"@en .
+<http://vocab.getty.edu/tgn/7639304> <http://www.w3.org/2000/01/rdf-schema#label> "Jureuse"@en .
+<http://vocab.getty.edu/tgn/2255904> <http://www.w3.org/2000/01/rdf-schema#label> "Copper Creek Mesa" .
+<http://vocab.getty.edu/tgn/2023604> <http://www.w3.org/2000/01/rdf-schema#label> "Metcalf" .
+<http://vocab.getty.edu/tgn/2023604> <http://www.w3.org/2000/01/rdf-schema#label> "Metcalfe" .
+<http://vocab.getty.edu/tgn/2275104> <http://www.w3.org/2000/01/rdf-schema#label> "Dane Spring" .
+<http://vocab.getty.edu/tgn/2370804> <http://www.w3.org/2000/01/rdf-schema#label> "Hackler Ford State Forest" .
+<http://vocab.getty.edu/tgn/8373204> <http://www.w3.org/2000/01/rdf-schema#label> "Shaohuying"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8373204> <http://www.w3.org/2000/01/rdf-schema#label> "\u54E8\u864E\u8425"@zh .
+<http://vocab.getty.edu/tgn/8075904> <http://www.w3.org/2000/01/rdf-schema#label> "Leidayan"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8075904> <http://www.w3.org/2000/01/rdf-schema#label> "\u96F7\u6253\u5CA9"@zh .
+<http://vocab.getty.edu/tgn/8682304> <http://www.w3.org/2000/01/rdf-schema#label> "Yongqing"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8682304> <http://www.w3.org/2000/01/rdf-schema#label> "Qingshui"@zh-latn .
+<http://vocab.getty.edu/tgn/8682304> <http://www.w3.org/2000/01/rdf-schema#label> "\u6C38\u6E05"@zh .
+<http://vocab.getty.edu/tgn/8682304> <http://www.w3.org/2000/01/rdf-schema#label> "Ch'ing-shui"@zh-latn .
+<http://vocab.getty.edu/tgn/8682304> <http://www.w3.org/2000/01/rdf-schema#label> "Ch'ing-shui-hsien"@zh-latn .
+<http://vocab.getty.edu/tgn/8682304> <http://www.w3.org/2000/01/rdf-schema#label> "Ch'ing-shui-hui-tsu-tzu-chih-chen"@zh-latn .
+<http://vocab.getty.edu/tgn/8682304> <http://www.w3.org/2000/01/rdf-schema#label> "\u6E05\u6C34\u53BF"@zh .
+<http://vocab.getty.edu/tgn/8682304> <http://www.w3.org/2000/01/rdf-schema#label> "Qingshui Xian"@zh-latn .
+<http://vocab.getty.edu/tgn/8682304> <http://www.w3.org/2000/01/rdf-schema#label> "Tsinshuy"@zh-latn .
+<http://vocab.getty.edu/tgn/2078704> <http://www.w3.org/2000/01/rdf-schema#label> "Cambridge" .
+<http://vocab.getty.edu/tgn/8307704> <http://www.w3.org/2000/01/rdf-schema#label> "Xin'an"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8307704> <http://www.w3.org/2000/01/rdf-schema#label> "\u65B0\u5B89"@zh .
+<http://vocab.getty.edu/tgn/8413404> <http://www.w3.org/2000/01/rdf-schema#label> "Shishuipo"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8413404> <http://www.w3.org/2000/01/rdf-schema#label> "\u77F3\u6C34\u5761"@zh .
+<http://vocab.getty.edu/tgn/2627804> <http://www.w3.org/2000/01/rdf-schema#label> "Rogers-Dalton Reservoir" .
+<http://vocab.getty.edu/tgn/8293304> <http://www.w3.org/2000/01/rdf-schema#label> "Huangshibanpo"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8293304> <http://www.w3.org/2000/01/rdf-schema#label> "\u9EC4\u77F3\u677F\u5761"@zh .
+<http://vocab.getty.edu/tgn/8483604> <http://www.w3.org/2000/01/rdf-schema#label> "Dawucun"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8483604> <http://www.w3.org/2000/01/rdf-schema#label> "\u5927\u6B66\u6751"@zh .
+<http://vocab.getty.edu/tgn/7969904> <http://www.w3.org/2000/01/rdf-schema#label> "Am\u0101npur, Rakh"@en .
+<http://vocab.getty.edu/tgn/7969904> <http://www.w3.org/2000/01/rdf-schema#label> "Rakh Am\u0101npur" .
+<http://vocab.getty.edu/tgn/2561304> <http://www.w3.org/2000/01/rdf-schema#label> "Osborn Lake" .
+<http://vocab.getty.edu/tgn/2466504> <http://www.w3.org/2000/01/rdf-schema#label> "Long Branch" .
+<http://vocab.getty.edu/tgn/2418004> <http://www.w3.org/2000/01/rdf-schema#label> "Jackson Point" .
+<http://vocab.getty.edu/tgn/7592904> <http://www.w3.org/2000/01/rdf-schema#label> "Potha"@en .
+<http://vocab.getty.edu/tgn/2104404> <http://www.w3.org/2000/01/rdf-schema#label> "Garceno" .
+<http://vocab.getty.edu/tgn/2676104> <http://www.w3.org/2000/01/rdf-schema#label> "Sorrel Spring" .
+<http://vocab.getty.edu/tgn/2645204> <http://www.w3.org/2000/01/rdf-schema#label> "Sausage Ponds" .
+<http://vocab.getty.edu/tgn/2379204> <http://www.w3.org/2000/01/rdf-schema#label> "Hartsell Hollow" .
+<http://vocab.getty.edu/tgn/8079704> <http://www.w3.org/2000/01/rdf-schema#label> "Wangzhou'ao"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8079704> <http://www.w3.org/2000/01/rdf-schema#label> "\u671B\u5DDE\u51F9"@zh .
+<http://vocab.getty.edu/tgn/7149504> <http://www.w3.org/2000/01/rdf-schema#label> "Kukuks-Berg" .
+<http://vocab.getty.edu/tgn/1025104> <http://www.w3.org/2000/01/rdf-schema#label> "El Encantado" .
+<http://vocab.getty.edu/tgn/8179804> <http://www.w3.org/2000/01/rdf-schema#label> "Darzong"@bo-latn .
+<http://vocab.getty.edu/tgn/8179804> <http://www.w3.org/2000/01/rdf-schema#label> "Da'erzong"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8179804> <http://www.w3.org/2000/01/rdf-schema#label> "\u8FBE\u5C14\u68D5"@zh .
+<http://vocab.getty.edu/tgn/7887904> <http://www.w3.org/2000/01/rdf-schema#label> "Annagh House"@en .
+<http://vocab.getty.edu/tgn/8269204> <http://www.w3.org/2000/01/rdf-schema#label> "Qingyutan"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8269204> <http://www.w3.org/2000/01/rdf-schema#label> "\u9752\u6E14\u6EE9"@zh .
+<http://vocab.getty.edu/tgn/2565804> <http://www.w3.org/2000/01/rdf-schema#label> "Palisade Butte" .
+<http://vocab.getty.edu/tgn/8454704> <http://www.w3.org/2000/01/rdf-schema#label> "Pugeluo"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8454704> <http://www.w3.org/2000/01/rdf-schema#label> "\u666E\u5404\u6D1B"@zh .
+<http://vocab.getty.edu/tgn/2379304> <http://www.w3.org/2000/01/rdf-schema#label> "Harve Clark Cove" .
+<http://vocab.getty.edu/tgn/7022604> <http://www.w3.org/2000/01/rdf-schema#label> "Coon Tail Creek" .
+<http://vocab.getty.edu/tgn/2679604> <http://www.w3.org/2000/01/rdf-schema#label> "South Fork Parsnip Creek" .
+<http://vocab.getty.edu/tgn/7228604> <http://www.w3.org/2000/01/rdf-schema#label> "Li\u00E1gkouna"@el-latn .
+<http://vocab.getty.edu/tgn/7228604> <http://www.w3.org/2000/01/rdf-schema#label> "Kop\u00E1nes"@el-latn .
+<http://vocab.getty.edu/tgn/7228604> <http://www.w3.org/2000/01/rdf-schema#label> "Li\u00E1ngouna"@el-latn .
+<http://vocab.getty.edu/tgn/7920304> <http://www.w3.org/2000/01/rdf-schema#label> "P\u0101ur\u0101nw\u0101la"@en .
+<http://vocab.getty.edu/tgn/7920304> <http://www.w3.org/2000/01/rdf-schema#label> "Puranwala" .
+<http://vocab.getty.edu/tgn/7580704> <http://www.w3.org/2000/01/rdf-schema#label> "Valigonda"@en .
+<http://vocab.getty.edu/tgn/2152604> <http://www.w3.org/2000/01/rdf-schema#label> "Bayles Spring" .
+<http://vocab.getty.edu/tgn/8627004> <http://www.w3.org/2000/01/rdf-schema#label> "Liangcha"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8627004> <http://www.w3.org/2000/01/rdf-schema#label> "Liangcha Zhen"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8627004> <http://www.w3.org/2000/01/rdf-schema#label> "\u6881\u5C94"@zh .
+<http://vocab.getty.edu/tgn/8627004> <http://www.w3.org/2000/01/rdf-schema#label> "\u6881\u5C94\u9547"@zh .
+<http://vocab.getty.edu/tgn/7077904> <http://www.w3.org/2000/01/rdf-schema#label> "Uetz-Paaren" .
+<http://vocab.getty.edu/tgn/7015004> <http://www.w3.org/2000/01/rdf-schema#label> "Hyde Park" .
+<http://vocab.getty.edu/tgn/2619604> <http://www.w3.org/2000/01/rdf-schema#label> "Rincon, The" .
+<http://vocab.getty.edu/tgn/2619604> <http://www.w3.org/2000/01/rdf-schema#label> "The Rincon" .
+<http://vocab.getty.edu/tgn/7291704> <http://www.w3.org/2000/01/rdf-schema#label> "El Porvenir" .
+<http://vocab.getty.edu/tgn/2466004> <http://www.w3.org/2000/01/rdf-schema#label> "Lone Tree Island" .
+<http://vocab.getty.edu/tgn/8526704> <http://www.w3.org/2000/01/rdf-schema#label> "Lihao"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8526704> <http://www.w3.org/2000/01/rdf-schema#label> "\u793C\u53F7"@zh .
+<http://vocab.getty.edu/tgn/1110504> <http://www.w3.org/2000/01/rdf-schema#label> "Kolm\u00E5rden" .
+<http://vocab.getty.edu/tgn/7704504> <http://www.w3.org/2000/01/rdf-schema#label> "S\u00FCtl\u00FCce"@en .
+<http://vocab.getty.edu/tgn/2246304> <http://www.w3.org/2000/01/rdf-schema#label> "Coast Fork" .
+<http://vocab.getty.edu/tgn/8380904> <http://www.w3.org/2000/01/rdf-schema#label> "Liujiaying"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8380904> <http://www.w3.org/2000/01/rdf-schema#label> "\u5218\u5BB6\u8425"@zh .
+<http://vocab.getty.edu/tgn/8577004> <http://www.w3.org/2000/01/rdf-schema#label> "Junzibu"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8577004> <http://www.w3.org/2000/01/rdf-schema#label> "Junzibao"@zh-latn .
+<http://vocab.getty.edu/tgn/8577004> <http://www.w3.org/2000/01/rdf-schema#label> "\u541B\u5B50\u5821"@zh .
+<http://vocab.getty.edu/tgn/8345104> <http://www.w3.org/2000/01/rdf-schema#label> "Longyi"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8345104> <http://www.w3.org/2000/01/rdf-schema#label> "\u9647\u4EEA"@zh .
+<http://vocab.getty.edu/tgn/2408904> <http://www.w3.org/2000/01/rdf-schema#label> "Hyrum Canal" .
+<http://vocab.getty.edu/tgn/7873904> <http://www.w3.org/2000/01/rdf-schema#label> "Arch\u00E1ngelos Micha\u00EDl"@el-latn .
+<http://vocab.getty.edu/tgn/7873904> <http://www.w3.org/2000/01/rdf-schema#label> "Arkhangelos Mikhail" .
+<http://vocab.getty.edu/tgn/7873904> <http://www.w3.org/2000/01/rdf-schema#label> "\u0391\u03C1\u03C7\u03AC\u03B3\u03B3\u03B5\u03BB\u03BF\u03C2 \u039C\u03B9\u03C7\u03B1\u03AE\u03BB"@el .
+<http://vocab.getty.edu/tgn/1128404> <http://www.w3.org/2000/01/rdf-schema#label> "Paren'" .
+<http://vocab.getty.edu/tgn/1128404> <http://www.w3.org/2000/01/rdf-schema#label> "Paren" .
+<http://vocab.getty.edu/tgn/7661404> <http://www.w3.org/2000/01/rdf-schema#label> "Br\u00E9zentine"@en .
+<http://vocab.getty.edu/tgn/7661404> <http://www.w3.org/2000/01/rdf-schema#label> "Brezentine Rivi\u00E8re" .
+<http://vocab.getty.edu/tgn/7661404> <http://www.w3.org/2000/01/rdf-schema#label> "La Br\u00E9zentine Rivi\u00E8re" .
+<http://vocab.getty.edu/tgn/7151804> <http://www.w3.org/2000/01/rdf-schema#label> "Katensen" .
+<http://vocab.getty.edu/tgn/8375604> <http://www.w3.org/2000/01/rdf-schema#label> "Yangpo"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8375604> <http://www.w3.org/2000/01/rdf-schema#label> "\u9633\u5761"@zh .
+<http://vocab.getty.edu/tgn/8249304> <http://www.w3.org/2000/01/rdf-schema#label> "Qipan"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8249304> <http://www.w3.org/2000/01/rdf-schema#label> "\u68CB\u76D8"@zh .
+<http://vocab.getty.edu/tgn/7580104> <http://www.w3.org/2000/01/rdf-schema#label> "Sew\u0101ri"@en .
+<http://vocab.getty.edu/tgn/2717804> <http://www.w3.org/2000/01/rdf-schema#label> "Thomas Mine" .
+<http://vocab.getty.edu/tgn/7191404> <http://www.w3.org/2000/01/rdf-schema#label> "Finkenberg" .
+<http://vocab.getty.edu/tgn/8375204> <http://www.w3.org/2000/01/rdf-schema#label> "Beishan Xiying"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8375204> <http://www.w3.org/2000/01/rdf-schema#label> "\u5317\u9655\u897F\u8425"@zh .
+<http://vocab.getty.edu/tgn/2251204> <http://www.w3.org/2000/01/rdf-schema#label> "Comanche Mine" .
+<http://vocab.getty.edu/tgn/7884004> <http://www.w3.org/2000/01/rdf-schema#label> "Ballylane House"@en .
+<http://vocab.getty.edu/tgn/7519804> <http://www.w3.org/2000/01/rdf-schema#label> "Birch Hill Creek"@en .
+<http://vocab.getty.edu/tgn/7058304> <http://www.w3.org/2000/01/rdf-schema#label> "Bottigli, Monte" .
+<http://vocab.getty.edu/tgn/7058304> <http://www.w3.org/2000/01/rdf-schema#label> "Monte Bottigli" .
+<http://vocab.getty.edu/tgn/2696504> <http://www.w3.org/2000/01/rdf-schema#label> "Stone Lake" .
+<http://vocab.getty.edu/tgn/7164004> <http://www.w3.org/2000/01/rdf-schema#label> "Im Holte" .
+<http://vocab.getty.edu/tgn/8452004> <http://www.w3.org/2000/01/rdf-schema#label> "Lishuping"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8452004> <http://www.w3.org/2000/01/rdf-schema#label> "\u6817\u6811\u576A"@zh .
+<http://vocab.getty.edu/tgn/8139904> <http://www.w3.org/2000/01/rdf-schema#label> "Dumuling"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8139904> <http://www.w3.org/2000/01/rdf-schema#label> "\u72EC\u6728\u5CAD"@zh .
+<http://vocab.getty.edu/tgn/8015104> <http://www.w3.org/2000/01/rdf-schema#label> "Sorai Sar"@en .
+<http://vocab.getty.edu/tgn/8015104> <http://www.w3.org/2000/01/rdf-schema#label> "Soral Sar" .
+<http://vocab.getty.edu/tgn/2315204> <http://www.w3.org/2000/01/rdf-schema#label> "Eller Cove" .
+<http://vocab.getty.edu/tgn/2410304> <http://www.w3.org/2000/01/rdf-schema#label> "Indian Bayou" .
+<http://vocab.getty.edu/tgn/2311704> <http://www.w3.org/2000/01/rdf-schema#label> "Edwards Gulch" .
+<http://vocab.getty.edu/tgn/8573504> <http://www.w3.org/2000/01/rdf-schema#label> "Dongshao"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8573504> <http://www.w3.org/2000/01/rdf-schema#label> "\u4E1C\u97F6"@zh .
+<http://vocab.getty.edu/tgn/2309204> <http://www.w3.org/2000/01/rdf-schema#label> "East Skelly Gulch" .
+<http://vocab.getty.edu/tgn/7643204> <http://www.w3.org/2000/01/rdf-schema#label> "Grandvaux"@en .
+<http://vocab.getty.edu/tgn/7505104> <http://www.w3.org/2000/01/rdf-schema#label> "North Rock"@en .
+<http://vocab.getty.edu/tgn/7969404> <http://www.w3.org/2000/01/rdf-schema#label> "Dhok Afzal\u0101b\u0101d"@en .
+<http://vocab.getty.edu/tgn/2309504> <http://www.w3.org/2000/01/rdf-schema#label> "East Twin Wash" .
+<http://vocab.getty.edu/tgn/8328504> <http://www.w3.org/2000/01/rdf-schema#label> "Xianonghua"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8328504> <http://www.w3.org/2000/01/rdf-schema#label> "\u4E0B\u5F04\u534E"@zh .
+<http://vocab.getty.edu/tgn/7810004> <http://www.w3.org/2000/01/rdf-schema#label> "Harry Grose Reserve"@en .
+<http://vocab.getty.edu/tgn/7922004> <http://www.w3.org/2000/01/rdf-schema#label> "Sult\u0101n Sh\u0101hw\u0101la"@en .
+<http://vocab.getty.edu/tgn/7570604> <http://www.w3.org/2000/01/rdf-schema#label> "Ghaggar Branch"@en .
+<http://vocab.getty.edu/tgn/7570604> <http://www.w3.org/2000/01/rdf-schema#label> "Ghaggar Beh" .
+<http://vocab.getty.edu/tgn/8099504> <http://www.w3.org/2000/01/rdf-schema#label> "Yangbuxiang"@zh-latn .
+<http://vocab.getty.edu/tgn/8099504> <http://www.w3.org/2000/01/rdf-schema#label> "\u6768\u57E0\u4E61"@zh .
+<http://vocab.getty.edu/tgn/7509804> <http://www.w3.org/2000/01/rdf-schema#label> "Stony Creek"@en .
+<http://vocab.getty.edu/tgn/7643004> <http://www.w3.org/2000/01/rdf-schema#label> "Gros Bois, For\u00EAt de"@en .
+<http://vocab.getty.edu/tgn/7643004> <http://www.w3.org/2000/01/rdf-schema#label> "For\u00EAt de Gros Bois" .
+<http://vocab.getty.edu/tgn/2221704> <http://www.w3.org/2000/01/rdf-schema#label> "Carlisle Spring" .
+<http://vocab.getty.edu/tgn/2768904> <http://www.w3.org/2000/01/rdf-schema#label> "Whitney Lake" .
+<http://vocab.getty.edu/tgn/7248404> <http://www.w3.org/2000/01/rdf-schema#label> "Bettegemhoeve" .
+<http://vocab.getty.edu/tgn/7248404> <http://www.w3.org/2000/01/rdf-schema#label> "Betteghemhof" .
+<http://vocab.getty.edu/tgn/2443204> <http://www.w3.org/2000/01/rdf-schema#label> "Kyle Lake" .
+<http://vocab.getty.edu/tgn/2443204> <http://www.w3.org/2000/01/rdf-schema#label> "B & O Reservoir" .
+<http://vocab.getty.edu/tgn/2443204> <http://www.w3.org/2000/01/rdf-schema#label> "B R And P Reservoir" .
+<http://vocab.getty.edu/tgn/2640904> <http://www.w3.org/2000/01/rdf-schema#label> "Sanborn Reservoir" .
+<http://vocab.getty.edu/tgn/2498904> <http://www.w3.org/2000/01/rdf-schema#label> "McCanen Gulch" .
+<http://vocab.getty.edu/tgn/8130504> <http://www.w3.org/2000/01/rdf-schema#label> "Yunjiao"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8130504> <http://www.w3.org/2000/01/rdf-schema#label> "\u8FD0\u811A"@zh .
+<http://vocab.getty.edu/tgn/7726704> <http://www.w3.org/2000/01/rdf-schema#label> "Gezk\u00F6y"@tr .
+<http://vocab.getty.edu/tgn/7726704> <http://www.w3.org/2000/01/rdf-schema#label> "Gez" .
+<http://vocab.getty.edu/tgn/7726704> <http://www.w3.org/2000/01/rdf-schema#label> "Gez K\u00F6y\u00FC" .
+<http://vocab.getty.edu/tgn/8493404> <http://www.w3.org/2000/01/rdf-schema#label> "Erjiachen"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8493404> <http://www.w3.org/2000/01/rdf-schema#label> "\u4E8C\u5BB6\u9648"@zh .
+<http://vocab.getty.edu/tgn/7330104> <http://www.w3.org/2000/01/rdf-schema#label> "Playa del Hoyo" .
+<http://vocab.getty.edu/tgn/7330104> <http://www.w3.org/2000/01/rdf-schema#label> "Hoyo, Playa del" .
+<http://vocab.getty.edu/tgn/7392904> <http://www.w3.org/2000/01/rdf-schema#label> "San Antonio, R\u00EDo" .
+<http://vocab.getty.edu/tgn/7392904> <http://www.w3.org/2000/01/rdf-schema#label> "R\u00EDo San Antonio" .
+<http://vocab.getty.edu/tgn/2254804> <http://www.w3.org/2000/01/rdf-schema#label> "Cooney Gulch" .
+<http://vocab.getty.edu/tgn/7371204> <http://www.w3.org/2000/01/rdf-schema#label> "Hacienda de Gallego" .
+<http://vocab.getty.edu/tgn/7481604> <http://www.w3.org/2000/01/rdf-schema#label> "Jiaxing Nongchang"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/7481604> <http://www.w3.org/2000/01/rdf-schema#label> "Chia-hsing Farm"@en .
+<http://vocab.getty.edu/tgn/7481604> <http://www.w3.org/2000/01/rdf-schema#label> "Chia-hsing Nung-ch'ang"@zh-latn .
+<http://vocab.getty.edu/tgn/7481604> <http://www.w3.org/2000/01/rdf-schema#label> "Jiasing Nongchang"@zh-latn .
+<http://vocab.getty.edu/tgn/7481604> <http://www.w3.org/2000/01/rdf-schema#label> "\u5609\u8208\u8FB2\u5834"@zh .
+<http://vocab.getty.edu/tgn/7436304> <http://www.w3.org/2000/01/rdf-schema#label> "Soledad" .
+<http://vocab.getty.edu/tgn/2233104> <http://www.w3.org/2000/01/rdf-schema#label> "Charles Creek" .
+<http://vocab.getty.edu/tgn/7102704> <http://www.w3.org/2000/01/rdf-schema#label> "Rothach" .
+<http://vocab.getty.edu/tgn/7891004> <http://www.w3.org/2000/01/rdf-schema#label> "Powerstown"@en .
+<http://vocab.getty.edu/tgn/7398204> <http://www.w3.org/2000/01/rdf-schema#label> "La Jabalina" .
+<http://vocab.getty.edu/tgn/7919704> <http://www.w3.org/2000/01/rdf-schema#label> "S\u0101gar Khurd"@en .
+<http://vocab.getty.edu/tgn/2473904> <http://www.w3.org/2000/01/rdf-schema#label> "Lower Hidden Spring" .
+<http://vocab.getty.edu/tgn/8422604> <http://www.w3.org/2000/01/rdf-schema#label> "Songguan"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8422604> <http://www.w3.org/2000/01/rdf-schema#label> "\u5B8B\u5B98"@zh .
+<http://vocab.getty.edu/tgn/8403204> <http://www.w3.org/2000/01/rdf-schema#label> "Gantianban"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8403204> <http://www.w3.org/2000/01/rdf-schema#label> "\u5E72\u7530\u677F"@zh .
+<http://vocab.getty.edu/tgn/8105004> <http://www.w3.org/2000/01/rdf-schema#label> "Xiaguo"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8105004> <http://www.w3.org/2000/01/rdf-schema#label> "\u4E0B\u90ED"@zh .
+<http://vocab.getty.edu/tgn/7318704> <http://www.w3.org/2000/01/rdf-schema#label> "Cadenas, Pen\u00EDnsula" .
+<http://vocab.getty.edu/tgn/7318704> <http://www.w3.org/2000/01/rdf-schema#label> "Cadenas, Punta de" .
+<http://vocab.getty.edu/tgn/7318704> <http://www.w3.org/2000/01/rdf-schema#label> "Pen\u00EDnsula Cadenas" .
+<http://vocab.getty.edu/tgn/7318704> <http://www.w3.org/2000/01/rdf-schema#label> "Punta de Cadenas" .
+<http://vocab.getty.edu/tgn/8458504> <http://www.w3.org/2000/01/rdf-schema#label> "Zhaizipo"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8458504> <http://www.w3.org/2000/01/rdf-schema#label> "\u5BE8\u5B50\u5761"@zh .
+<http://vocab.getty.edu/tgn/7163104> <http://www.w3.org/2000/01/rdf-schema#label> "Im Wei\u00DFenstein" .
+<http://vocab.getty.edu/tgn/2474704> <http://www.w3.org/2000/01/rdf-schema#label> "Lower Spring" .
+<http://vocab.getty.edu/tgn/7236904> <http://www.w3.org/2000/01/rdf-schema#label> "Andriyi\u00E1s"@el-latn .
+<http://vocab.getty.edu/tgn/7738104> <http://www.w3.org/2000/01/rdf-schema#label> "Aslanta\u015F"@en .
+<http://vocab.getty.edu/tgn/7738104> <http://www.w3.org/2000/01/rdf-schema#label> "Arslanta\u015F" .
+<http://vocab.getty.edu/tgn/8220904> <http://www.w3.org/2000/01/rdf-schema#label> "Eda Songduo"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8220904> <http://www.w3.org/2000/01/rdf-schema#label> "\u4FC4\u8FBE\u677E\u591A"@zh .
+<http://vocab.getty.edu/tgn/2537504> <http://www.w3.org/2000/01/rdf-schema#label> "Negro Mountain" .
+<http://vocab.getty.edu/tgn/8401504> <http://www.w3.org/2000/01/rdf-schema#label> "Damogou"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8401504> <http://www.w3.org/2000/01/rdf-schema#label> "\u6253\u78E8\u6C9F"@zh .
+<http://vocab.getty.edu/tgn/2469804> <http://www.w3.org/2000/01/rdf-schema#label> "Lookout Spring" .
+<http://vocab.getty.edu/tgn/7672404> <http://www.w3.org/2000/01/rdf-schema#label> "\u015Eel Kuyusu"@en .
+<http://vocab.getty.edu/tgn/7672404> <http://www.w3.org/2000/01/rdf-schema#label> "Kolodets Shel'"@ru-latn .
+<http://vocab.getty.edu/tgn/7672404> <http://www.w3.org/2000/01/rdf-schema#label> "Shel', Kolodets"@ru-latn .
+<http://vocab.getty.edu/tgn/7835704> <http://www.w3.org/2000/01/rdf-schema#label> "New York Jump Ups"@en .
+<http://vocab.getty.edu/tgn/2601104> <http://www.w3.org/2000/01/rdf-schema#label> "Puncheon Camp Branch" .
+<http://vocab.getty.edu/tgn/2355304> <http://www.w3.org/2000/01/rdf-schema#label> "Goodwin Subdivision" .
+<http://vocab.getty.edu/tgn/7274704> <http://www.w3.org/2000/01/rdf-schema#label> "Zalmplaat"@nl .
+<http://vocab.getty.edu/tgn/2763104> <http://www.w3.org/2000/01/rdf-schema#label> "Westridge" .
+<http://vocab.getty.edu/tgn/2177704> <http://www.w3.org/2000/01/rdf-schema#label> "Black Sulphur Spring" .
+<http://vocab.getty.edu/tgn/2485204> <http://www.w3.org/2000/01/rdf-schema#label> "Lawrence" .
+<http://vocab.getty.edu/tgn/7170704> <http://www.w3.org/2000/01/rdf-schema#label> "Hesse-Berg" .
+<http://vocab.getty.edu/tgn/7427304> <http://www.w3.org/2000/01/rdf-schema#label> "Las Adjuntas de Arriba" .
+<http://vocab.getty.edu/tgn/7576804> <http://www.w3.org/2000/01/rdf-schema#label> "Kottakota"@en .
+<http://vocab.getty.edu/tgn/2259004> <http://www.w3.org/2000/01/rdf-schema#label> "Cottonwood Creek" .
+<http://vocab.getty.edu/tgn/7102904> <http://www.w3.org/2000/01/rdf-schema#label> "Roth" .
+<http://vocab.getty.edu/tgn/7904204> <http://www.w3.org/2000/01/rdf-schema#label> "Day\u0101lpura"@en .
+<http://vocab.getty.edu/tgn/7721204> <http://www.w3.org/2000/01/rdf-schema#label> "\u0130bikseydi"@en .
+<http://vocab.getty.edu/tgn/7126604> <http://www.w3.org/2000/01/rdf-schema#label> "Oberbocholt" .
+<http://vocab.getty.edu/tgn/2449704> <http://www.w3.org/2000/01/rdf-schema#label> "Lincoln, Mount" .
+<http://vocab.getty.edu/tgn/2449704> <http://www.w3.org/2000/01/rdf-schema#label> "Mount Lincoln Peak" .
+<http://vocab.getty.edu/tgn/7067304> <http://www.w3.org/2000/01/rdf-schema#label> "Stollberg, Forst" .
+<http://vocab.getty.edu/tgn/7067304> <http://www.w3.org/2000/01/rdf-schema#label> "Forst Stollberg" .
+<http://vocab.getty.edu/tgn/1059704> <http://www.w3.org/2000/01/rdf-schema#label> "Staraya Belogorka" .
+<http://vocab.getty.edu/tgn/1059704> <http://www.w3.org/2000/01/rdf-schema#label> "Staraja Belogorka" .
+<http://vocab.getty.edu/tgn/8693904> <http://www.w3.org/2000/01/rdf-schema#label> "Majiaolaituo"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8693904> <http://www.w3.org/2000/01/rdf-schema#label> "\u9EBB\u811A\u6765\u6258"@zh .
+<http://vocab.getty.edu/tgn/8691804> <http://www.w3.org/2000/01/rdf-schema#label> "Baishuidong"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8691804> <http://www.w3.org/2000/01/rdf-schema#label> "\u767D\u6C34\u6D1E"@zh .
+<http://vocab.getty.edu/tgn/8456604> <http://www.w3.org/2000/01/rdf-schema#label> "Zhangjiaqing"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8456604> <http://www.w3.org/2000/01/rdf-schema#label> "\u5F20\u5BB6\u7B90"@zh .
+<http://vocab.getty.edu/tgn/8532004> <http://www.w3.org/2000/01/rdf-schema#label> "Dashui"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8532004> <http://www.w3.org/2000/01/rdf-schema#label> "\u5927\u6C34"@zh .
+<http://vocab.getty.edu/tgn/7558204> <http://www.w3.org/2000/01/rdf-schema#label> "S\u0101ngwi"@en .
+<http://vocab.getty.edu/tgn/7084004> <http://www.w3.org/2000/01/rdf-schema#label> "Welcherod" .
+<http://vocab.getty.edu/tgn/1121804> <http://www.w3.org/2000/01/rdf-schema#label> "Beng He"@zh-latn .
+<http://vocab.getty.edu/tgn/1121804> <http://www.w3.org/2000/01/rdf-schema#label> "Beng He" .
+<http://vocab.getty.edu/tgn/1121804> <http://www.w3.org/2000/01/rdf-schema#label> "Beng" .
+<http://vocab.getty.edu/tgn/1121804> <http://www.w3.org/2000/01/rdf-schema#label> "Peng Ho"@zh-latn .
+<http://vocab.getty.edu/tgn/7182904> <http://www.w3.org/2000/01/rdf-schema#label> "Friedrichsdorf" .
+<http://vocab.getty.edu/tgn/2054704> <http://www.w3.org/2000/01/rdf-schema#label> "Humboldt" .
+<http://vocab.getty.edu/tgn/2766404> <http://www.w3.org/2000/01/rdf-schema#label> "White Mule Spring" .
+<http://vocab.getty.edu/tgn/7762304> <http://www.w3.org/2000/01/rdf-schema#label> "Vara"@en .
+<http://vocab.getty.edu/tgn/2302104> <http://www.w3.org/2000/01/rdf-schema#label> "Dutch Creek" .
+<http://vocab.getty.edu/tgn/1138004> <http://www.w3.org/2000/01/rdf-schema#label> "Nikolayevka" .
+<http://vocab.getty.edu/tgn/1138004> <http://www.w3.org/2000/01/rdf-schema#label> "Nikolajevka" .
+<http://vocab.getty.edu/tgn/8547704> <http://www.w3.org/2000/01/rdf-schema#label> "Deliba"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8547704> <http://www.w3.org/2000/01/rdf-schema#label> "\u5F97\u529B\u575D"@zh .
+<http://vocab.getty.edu/tgn/2098204> <http://www.w3.org/2000/01/rdf-schema#label> "Busselltown" .
+<http://vocab.getty.edu/tgn/7973704> <http://www.w3.org/2000/01/rdf-schema#label> "Gul B\u0101z Kh\u0101n"@en .
+<http://vocab.getty.edu/tgn/2531604> <http://www.w3.org/2000/01/rdf-schema#label> "Muley Mountain" .
+<http://vocab.getty.edu/tgn/8157104> <http://www.w3.org/2000/01/rdf-schema#label> "Caizhou"@zh-latn .
+<http://vocab.getty.edu/tgn/8157104> <http://www.w3.org/2000/01/rdf-schema#label> "\u6750\u6D32"@zh .
+<http://vocab.getty.edu/tgn/7837404> <http://www.w3.org/2000/01/rdf-schema#label> "Mound Springs"@en .
+<http://vocab.getty.edu/tgn/2141304> <http://www.w3.org/2000/01/rdf-schema#label> "Ayford Ditch" .
+<http://vocab.getty.edu/tgn/7912604> <http://www.w3.org/2000/01/rdf-schema#label> "J\u0101har M\u0101hya"@en .
+<http://vocab.getty.edu/tgn/7912604> <http://www.w3.org/2000/01/rdf-schema#label> "J\u0101har" .
+<http://vocab.getty.edu/tgn/7912604> <http://www.w3.org/2000/01/rdf-schema#label> "Jahar Mahia" .
+<http://vocab.getty.edu/tgn/7015404> <http://www.w3.org/2000/01/rdf-schema#label> "Kotor" .
+<http://vocab.getty.edu/tgn/7015404> <http://www.w3.org/2000/01/rdf-schema#label> "Decateron" .
+<http://vocab.getty.edu/tgn/7015404> <http://www.w3.org/2000/01/rdf-schema#label> "Cattaro" .
+<http://vocab.getty.edu/tgn/7015404> <http://www.w3.org/2000/01/rdf-schema#label> "Ascrivium" .
+<http://vocab.getty.edu/tgn/7015404> <http://www.w3.org/2000/01/rdf-schema#label> "Acruvium" .
+<http://vocab.getty.edu/tgn/7638204> <http://www.w3.org/2000/01/rdf-schema#label> "Lanoux, \u00C9tang de"@en .
+<http://vocab.getty.edu/tgn/7638204> <http://www.w3.org/2000/01/rdf-schema#label> "\u00C9tang de Lanoux" .
+<http://vocab.getty.edu/tgn/8612004> <http://www.w3.org/2000/01/rdf-schema#label> "Liwan"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8612004> <http://www.w3.org/2000/01/rdf-schema#label> "\u793C\u6E7E"@zh .
+<http://vocab.getty.edu/tgn/8597504> <http://www.w3.org/2000/01/rdf-schema#label> "Haigang"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8597504> <http://www.w3.org/2000/01/rdf-schema#label> "Haigang Qu"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8597504> <http://www.w3.org/2000/01/rdf-schema#label> "\u6D77\u6E2F"@zh .
+<http://vocab.getty.edu/tgn/8597504> <http://www.w3.org/2000/01/rdf-schema#label> "\u6D77\u6E2F\u533A"@zh .
+<http://vocab.getty.edu/tgn/8131804> <http://www.w3.org/2000/01/rdf-schema#label> "Baijiuyi"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8131804> <http://www.w3.org/2000/01/rdf-schema#label> "\u767D\u4E5D\u76CA"@zh .
+<http://vocab.getty.edu/tgn/8459404> <http://www.w3.org/2000/01/rdf-schema#label> "Gengka"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8459404> <http://www.w3.org/2000/01/rdf-schema#label> "\u66F4\u5361"@zh .
+<http://vocab.getty.edu/tgn/8288004> <http://www.w3.org/2000/01/rdf-schema#label> "Xintian"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8288004> <http://www.w3.org/2000/01/rdf-schema#label> "\u65B0\u7530"@zh .
+<http://vocab.getty.edu/tgn/2764204> <http://www.w3.org/2000/01/rdf-schema#label> "Wheeler Spring" .
+<http://vocab.getty.edu/tgn/2618604> <http://www.w3.org/2000/01/rdf-schema#label> "Right Fork Leatherwood Creek" .
+<http://vocab.getty.edu/tgn/2040204> <http://www.w3.org/2000/01/rdf-schema#label> "Matlock" .
+<http://vocab.getty.edu/tgn/8205504> <http://www.w3.org/2000/01/rdf-schema#label> "Chaojiang"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8205504> <http://www.w3.org/2000/01/rdf-schema#label> "Ch'ao-ching"@zh-latn .
+<http://vocab.getty.edu/tgn/8205504> <http://www.w3.org/2000/01/rdf-schema#label> "\u6F6E\u6C5F"@zh .
+<http://vocab.getty.edu/tgn/8205504> <http://www.w3.org/2000/01/rdf-schema#label> "Chaojing"@zh-latn .
+<http://vocab.getty.edu/tgn/8066604> <http://www.w3.org/2000/01/rdf-schema#label> "Tianba"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8066604> <http://www.w3.org/2000/01/rdf-schema#label> "\u7530\u575D"@zh .
+<http://vocab.getty.edu/tgn/8600804> <http://www.w3.org/2000/01/rdf-schema#label> "Xiamiezhou"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8600804> <http://www.w3.org/2000/01/rdf-schema#label> "\u4E0B\u7BFE\u6D32"@zh .
+<http://vocab.getty.edu/tgn/7057504> <http://www.w3.org/2000/01/rdf-schema#label> "Ca del Monte" .
+<http://vocab.getty.edu/tgn/2238204> <http://www.w3.org/2000/01/rdf-schema#label> "Chiwaukum Creek" .
+<http://vocab.getty.edu/tgn/8112104> <http://www.w3.org/2000/01/rdf-schema#label> "Zhuhu"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8112104> <http://www.w3.org/2000/01/rdf-schema#label> "\u73E0\u6E56"@zh .
+<http://vocab.getty.edu/tgn/8112104> <http://www.w3.org/2000/01/rdf-schema#label> "Zhuhu Xiang"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8112104> <http://www.w3.org/2000/01/rdf-schema#label> "\u73E0\u6E56\u4E61"@zh .
+<http://vocab.getty.edu/tgn/8521304> <http://www.w3.org/2000/01/rdf-schema#label> "Zhuyuanbian"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8521304> <http://www.w3.org/2000/01/rdf-schema#label> "\u7AF9\u56ED\u8FB9"@zh .
+<http://vocab.getty.edu/tgn/2314104> <http://www.w3.org/2000/01/rdf-schema#label> "Elk Branch" .
+<http://vocab.getty.edu/tgn/8295304> <http://www.w3.org/2000/01/rdf-schema#label> "Weijia"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8295304> <http://www.w3.org/2000/01/rdf-schema#label> "\u97E6\u5BB6"@zh .
+<http://vocab.getty.edu/tgn/7913004> <http://www.w3.org/2000/01/rdf-schema#label> "Kirp\u0101lpur"@en .
+<http://vocab.getty.edu/tgn/7544204> <http://www.w3.org/2000/01/rdf-schema#label> "'Izbat \u1E28\u0101mid N\u016Br"@en .
+<http://vocab.getty.edu/tgn/8148104> <http://www.w3.org/2000/01/rdf-schema#label> "Shanlong"@zh-latn .
+<http://vocab.getty.edu/tgn/8295804> <http://www.w3.org/2000/01/rdf-schema#label> "Huangzhen"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8295804> <http://www.w3.org/2000/01/rdf-schema#label> "\u9EC4\u5733"@zh .
+<http://vocab.getty.edu/tgn/7018604> <http://www.w3.org/2000/01/rdf-schema#label> "Duckenfield Hall" .
+<http://vocab.getty.edu/tgn/7018604> <http://www.w3.org/2000/01/rdf-schema#label> "Duckenfield" .
+<http://vocab.getty.edu/tgn/7018604> <http://www.w3.org/2000/01/rdf-schema#label> "Duckensfield" .
+<http://vocab.getty.edu/tgn/7040204> <http://www.w3.org/2000/01/rdf-schema#label> "Sassomolare" .
+<http://vocab.getty.edu/tgn/2227304> <http://www.w3.org/2000/01/rdf-schema#label> "Cave Pond" .
+<http://vocab.getty.edu/tgn/7171604> <http://www.w3.org/2000/01/rdf-schema#label> "Herseler Werth" .
+<http://vocab.getty.edu/tgn/2048304> <http://www.w3.org/2000/01/rdf-schema#label> "Piney Point" .
+<http://vocab.getty.edu/tgn/2475604> <http://www.w3.org/2000/01/rdf-schema#label> "Lucky Canyon" .
+<http://vocab.getty.edu/tgn/2401404> <http://www.w3.org/2000/01/rdf-schema#label> "Horseshoe 5" .
+<http://vocab.getty.edu/tgn/2564204> <http://www.w3.org/2000/01/rdf-schema#label> "Pa-478 Reservoir" .
+<http://vocab.getty.edu/tgn/7410404> <http://www.w3.org/2000/01/rdf-schema#label> "Candelaria" .
+<http://vocab.getty.edu/tgn/8099904> <http://www.w3.org/2000/01/rdf-schema#label> "Majiawan"@zh-latn .
+<http://vocab.getty.edu/tgn/8099904> <http://www.w3.org/2000/01/rdf-schema#label> "\u9EBB\u5BB6\u6E7E"@zh .
+<http://vocab.getty.edu/tgn/8676504> <http://www.w3.org/2000/01/rdf-schema#label> "Shuiyuguan Zhen"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8676504> <http://www.w3.org/2000/01/rdf-schema#label> "Shih-y\u00FC-kuan"@zh-latn .
+<http://vocab.getty.edu/tgn/8676504> <http://www.w3.org/2000/01/rdf-schema#label> "Shuiyuguan"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8676504> <http://www.w3.org/2000/01/rdf-schema#label> "\u6C34\u5CEA\u8D2F"@zh .
+<http://vocab.getty.edu/tgn/8676504> <http://www.w3.org/2000/01/rdf-schema#label> "Shui-y\u00FC-kuan"@zh-latn .
+<http://vocab.getty.edu/tgn/8676504> <http://www.w3.org/2000/01/rdf-schema#label> "\u6C34\u5CEA\u8D2F\u9547"@zh .
+<http://vocab.getty.edu/tgn/2063404> <http://www.w3.org/2000/01/rdf-schema#label> "Easton Center" .
+<http://vocab.getty.edu/tgn/2063404> <http://www.w3.org/2000/01/rdf-schema#label> "Eaton Center" .
+<http://vocab.getty.edu/tgn/1099004> <http://www.w3.org/2000/01/rdf-schema#label> "Kawhia"@en .
+<http://vocab.getty.edu/tgn/1099004> <http://www.w3.org/2000/01/rdf-schema#label> "Kawhia Town District" .
+<http://vocab.getty.edu/tgn/7972304> <http://www.w3.org/2000/01/rdf-schema#label> "Dhok M\u012Bachha"@en .
+<http://vocab.getty.edu/tgn/7287804> <http://www.w3.org/2000/01/rdf-schema#label> "La Laguna, R\u00EDo" .
+<http://vocab.getty.edu/tgn/7287804> <http://www.w3.org/2000/01/rdf-schema#label> "Laguna, R\u00EDo de la" .
+<http://vocab.getty.edu/tgn/7287804> <http://www.w3.org/2000/01/rdf-schema#label> "R\u00EDo de la Laguna" .
+<http://vocab.getty.edu/tgn/7287804> <http://www.w3.org/2000/01/rdf-schema#label> "R\u00EDo La Laguna" .
+<http://vocab.getty.edu/tgn/8030504> <http://www.w3.org/2000/01/rdf-schema#label> "Kalanda"@en .
+<http://vocab.getty.edu/tgn/7641304> <http://www.w3.org/2000/01/rdf-schema#label> "La Fontaine-Richard"@en .
+<http://vocab.getty.edu/tgn/8538204> <http://www.w3.org/2000/01/rdf-schema#label> "Dengmingcun"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8538204> <http://www.w3.org/2000/01/rdf-schema#label> "\u706F\u660E\u6751"@zh .
+<http://vocab.getty.edu/tgn/7626304> <http://www.w3.org/2000/01/rdf-schema#label> "Mauny, For\u00EAt de"@en .
+<http://vocab.getty.edu/tgn/7626304> <http://www.w3.org/2000/01/rdf-schema#label> "For\u00EAt de Mauny" .
+<http://vocab.getty.edu/tgn/2059504> <http://www.w3.org/2000/01/rdf-schema#label> "Marmaduke" .
+<http://vocab.getty.edu/tgn/2059504> <http://www.w3.org/2000/01/rdf-schema#label> "Leann" .
+<http://vocab.getty.edu/tgn/7621204> <http://www.w3.org/2000/01/rdf-schema#label> "Ougny"@en .
+<http://vocab.getty.edu/tgn/8526304> <http://www.w3.org/2000/01/rdf-schema#label> "Dingzhoucun"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8526304> <http://www.w3.org/2000/01/rdf-schema#label> "\u4E01\u5468\u6751"@zh .
+<http://vocab.getty.edu/tgn/8239304> <http://www.w3.org/2000/01/rdf-schema#label> "Donggoutaizi"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8239304> <http://www.w3.org/2000/01/rdf-schema#label> "\u4E1C\u6C9F\u53F0\u5B50"@zh .
+<http://vocab.getty.edu/tgn/7528104> <http://www.w3.org/2000/01/rdf-schema#label> "Sinb\u016B al Kubr\u00E1"@en .
+<http://vocab.getty.edu/tgn/7528104> <http://www.w3.org/2000/01/rdf-schema#label> "Simbu el-Kubra" .
+<http://vocab.getty.edu/tgn/7517604> <http://www.w3.org/2000/01/rdf-schema#label> "Makirikiri Stream"@en .
+<http://vocab.getty.edu/tgn/2737204> <http://www.w3.org/2000/01/rdf-schema#label> "Two Way Spring" .
+<http://vocab.getty.edu/tgn/7115204> <http://www.w3.org/2000/01/rdf-schema#label> "Pakensergroden" .
+<http://vocab.getty.edu/tgn/2066604> <http://www.w3.org/2000/01/rdf-schema#label> "Abbott" .
+<http://vocab.getty.edu/tgn/2066604> <http://www.w3.org/2000/01/rdf-schema#label> "New Abbott" .
+<http://vocab.getty.edu/tgn/2290504> <http://www.w3.org/2000/01/rdf-schema#label> "Doe Lake" .
+<http://vocab.getty.edu/tgn/8047704> <http://www.w3.org/2000/01/rdf-schema#label> "S\u0101wan Jask\u0101ri"@en .
+<http://vocab.getty.edu/tgn/1020204> <http://www.w3.org/2000/01/rdf-schema#label> "Villa Reynolds" .
+<http://vocab.getty.edu/tgn/7351804> <http://www.w3.org/2000/01/rdf-schema#label> "Barra" .
+<http://vocab.getty.edu/tgn/8262404> <http://www.w3.org/2000/01/rdf-schema#label> "Xincun"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8262404> <http://www.w3.org/2000/01/rdf-schema#label> "Xincun Xiang"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8262404> <http://www.w3.org/2000/01/rdf-schema#label> "\u65B0\u6751"@zh .
+<http://vocab.getty.edu/tgn/8262404> <http://www.w3.org/2000/01/rdf-schema#label> "\u65B0\u6751\u4E61"@zh .
+<http://vocab.getty.edu/tgn/8284804> <http://www.w3.org/2000/01/rdf-schema#label> "Huopo"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8284804> <http://www.w3.org/2000/01/rdf-schema#label> "\u970D\u5761"@zh .
+<http://vocab.getty.edu/tgn/8658404> <http://www.w3.org/2000/01/rdf-schema#label> "Nanshan"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8658404> <http://www.w3.org/2000/01/rdf-schema#label> "\u5357\u5C71"@zh .
+<http://vocab.getty.edu/tgn/7320804> <http://www.w3.org/2000/01/rdf-schema#label> "Butalcura, R\u00EDo" .
+<http://vocab.getty.edu/tgn/7320804> <http://www.w3.org/2000/01/rdf-schema#label> "R\u00EDo Butalcura" .
+<http://vocab.getty.edu/tgn/2757004> <http://www.w3.org/2000/01/rdf-schema#label> "Wenner Lakes Number One" .
+<http://vocab.getty.edu/tgn/8115504> <http://www.w3.org/2000/01/rdf-schema#label> "Wangfan"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8115504> <http://www.w3.org/2000/01/rdf-schema#label> "\u65FA\u51E1"@zh .
+<http://vocab.getty.edu/tgn/2614504> <http://www.w3.org/2000/01/rdf-schema#label> "Reilys Lake" .
+<http://vocab.getty.edu/tgn/8089404> <http://www.w3.org/2000/01/rdf-schema#label> "Yangjiashanggou"@zh-latn .
+<http://vocab.getty.edu/tgn/8089404> <http://www.w3.org/2000/01/rdf-schema#label> "\u6768\u5BB6\u4E0A\u6C9F"@zh .
+<http://vocab.getty.edu/tgn/8080804> <http://www.w3.org/2000/01/rdf-schema#label> "Pingsheng Zhuanwachang"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8080804> <http://www.w3.org/2000/01/rdf-schema#label> "\u5E73\u80DC\u7816\u74E6\u5382"@zh .
+<http://vocab.getty.edu/tgn/7848204> <http://www.w3.org/2000/01/rdf-schema#label> "Hyandra Creek"@en .
+<http://vocab.getty.edu/tgn/8231504> <http://www.w3.org/2000/01/rdf-schema#label> "Wugongliban"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8231504> <http://www.w3.org/2000/01/rdf-schema#label> "\u4E94\u516C\u91CC\u534A"@zh .
+<http://vocab.getty.edu/tgn/7220204> <http://www.w3.org/2000/01/rdf-schema#label> "Al\u00E9xandros, Krat\u00EDras"@el-latn .
+<http://vocab.getty.edu/tgn/7220204> <http://www.w3.org/2000/01/rdf-schema#label> "Alessandro, Cratere"@el-latn .
+<http://vocab.getty.edu/tgn/7220204> <http://www.w3.org/2000/01/rdf-schema#label> "Cratere Alessandro"@el-latn .
+<http://vocab.getty.edu/tgn/7220204> <http://www.w3.org/2000/01/rdf-schema#label> "Krat\u00EDras Al\u00E9xandros"@el-latn .
+<http://vocab.getty.edu/tgn/7175404> <http://www.w3.org/2000/01/rdf-schema#label> "Gro\u00DFfischbach" .
+<http://vocab.getty.edu/tgn/2262604> <http://www.w3.org/2000/01/rdf-schema#label> "Cow Point" .
+<http://vocab.getty.edu/tgn/7142204> <http://www.w3.org/2000/01/rdf-schema#label> "Maierbach" .
+<http://vocab.getty.edu/tgn/7133304> <http://www.w3.org/2000/01/rdf-schema#label> "Neidhof" .
+<http://vocab.getty.edu/tgn/2773404> <http://www.w3.org/2000/01/rdf-schema#label> "Willington Grove" .
+<http://vocab.getty.edu/tgn/2529404> <http://www.w3.org/2000/01/rdf-schema#label> "Mud Lake" .
+<http://vocab.getty.edu/tgn/2086104> <http://www.w3.org/2000/01/rdf-schema#label> "Atco" .
+<http://vocab.getty.edu/tgn/2086104> <http://www.w3.org/2000/01/rdf-schema#label> "Branninsville" .
+<http://vocab.getty.edu/tgn/8235304> <http://www.w3.org/2000/01/rdf-schema#label> "Panjiatai"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8235304> <http://www.w3.org/2000/01/rdf-schema#label> "\u6F58\u5BB6\u53F0"@zh .
+<http://vocab.getty.edu/tgn/7217704> <http://www.w3.org/2000/01/rdf-schema#label> "Yerop\u00F3tamos"@el-latn .
+<http://vocab.getty.edu/tgn/7217704> <http://www.w3.org/2000/01/rdf-schema#label> "Milop\u00F3tamos"@el-latn .
+<http://vocab.getty.edu/tgn/7217704> <http://www.w3.org/2000/01/rdf-schema#label> "Mylopotamo"@el-latn .
+<http://vocab.getty.edu/tgn/2296604> <http://www.w3.org/2000/01/rdf-schema#label> "Dry Creek" .
+<http://vocab.getty.edu/tgn/2015804> <http://www.w3.org/2000/01/rdf-schema#label> "Johnstown" .
+<http://vocab.getty.edu/tgn/8239004> <http://www.w3.org/2000/01/rdf-schema#label> "Jiangjiafan"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8239004> <http://www.w3.org/2000/01/rdf-schema#label> "\u6C5F\u5BB6\u7548"@zh .
+<http://vocab.getty.edu/tgn/7979504> <http://www.w3.org/2000/01/rdf-schema#label> "K\u016Blle"@en .
+<http://vocab.getty.edu/tgn/2153204> <http://www.w3.org/2000/01/rdf-schema#label> "Beales Pond" .
+<http://vocab.getty.edu/tgn/2644104> <http://www.w3.org/2000/01/rdf-schema#label> "Santa Peak" .
+<http://vocab.getty.edu/tgn/2043004> <http://www.w3.org/2000/01/rdf-schema#label> "Marchandville" .
+<http://vocab.getty.edu/tgn/2043004> <http://www.w3.org/2000/01/rdf-schema#label> "Hillaryville" .
+<http://vocab.getty.edu/tgn/2043004> <http://www.w3.org/2000/01/rdf-schema#label> "Marchlandville" .
+<http://vocab.getty.edu/tgn/7010704> <http://www.w3.org/2000/01/rdf-schema#label> "Southwell"@en .
+<http://vocab.getty.edu/tgn/7010704> <http://www.w3.org/2000/01/rdf-schema#label> "Sudeuuelle" .
+<http://vocab.getty.edu/tgn/7010704> <http://www.w3.org/2000/01/rdf-schema#label> "Sudwelle" .
+<http://vocab.getty.edu/tgn/1086304> <http://www.w3.org/2000/01/rdf-schema#label> "G\u00F6rele" .
+<http://vocab.getty.edu/tgn/8202904> <http://www.w3.org/2000/01/rdf-schema#label> "Caomiao"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8202904> <http://www.w3.org/2000/01/rdf-schema#label> "Caomiao Xiang"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8202904> <http://www.w3.org/2000/01/rdf-schema#label> "\u8349\u5E99"@zh .
+<http://vocab.getty.edu/tgn/8202904> <http://www.w3.org/2000/01/rdf-schema#label> "\u8349\u5E99\u4E61"@zh .
+<http://vocab.getty.edu/tgn/8202904> <http://www.w3.org/2000/01/rdf-schema#label> "Ts'ao-miao"@zh-latn .
+<http://vocab.getty.edu/tgn/2041404> <http://www.w3.org/2000/01/rdf-schema#label> "Spring Creek" .
+<http://vocab.getty.edu/tgn/2751304> <http://www.w3.org/2000/01/rdf-schema#label> "Warm Spring" .
+<http://vocab.getty.edu/tgn/7171404> <http://www.w3.org/2000/01/rdf-schema#label> "Hertingen" .
+<http://vocab.getty.edu/tgn/7815004> <http://www.w3.org/2000/01/rdf-schema#label> "Brown Park"@en .
+<http://vocab.getty.edu/tgn/7901204> <http://www.w3.org/2000/01/rdf-schema#label> "Druming"@en .
+<http://vocab.getty.edu/tgn/8108504> <http://www.w3.org/2000/01/rdf-schema#label> "Wenxi"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8108504> <http://www.w3.org/2000/01/rdf-schema#label> "\u6587\u6EAA"@zh .
+<http://vocab.getty.edu/tgn/2171004> <http://www.w3.org/2000/01/rdf-schema#label> "Big Spring" .
+<http://vocab.getty.edu/tgn/8005504> <http://www.w3.org/2000/01/rdf-schema#label> "D\u0101u Ch\u0101h Reg"@en .
+<http://vocab.getty.edu/tgn/8504704> <http://www.w3.org/2000/01/rdf-schema#label> "Gunzigang"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8504704> <http://www.w3.org/2000/01/rdf-schema#label> "\u78D9\u5B50\u5C97"@zh .
+<http://vocab.getty.edu/tgn/7984804> <http://www.w3.org/2000/01/rdf-schema#label> "Bar Khalozo"@en .
+<http://vocab.getty.edu/tgn/7984804> <http://www.w3.org/2000/01/rdf-schema#label> "Bar Khalozai" .
+<http://vocab.getty.edu/tgn/8432904> <http://www.w3.org/2000/01/rdf-schema#label> "Laoxiongqing"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8432904> <http://www.w3.org/2000/01/rdf-schema#label> "\u8001\u718A\u7B90"@zh .
+<http://vocab.getty.edu/tgn/7868504> <http://www.w3.org/2000/01/rdf-schema#label> "Bartletts Swamp"@en .
+<http://vocab.getty.edu/tgn/8265204> <http://www.w3.org/2000/01/rdf-schema#label> "Sairejiji"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8265204> <http://www.w3.org/2000/01/rdf-schema#label> "Sailejiejie"@zh-latn .
+<http://vocab.getty.edu/tgn/8265204> <http://www.w3.org/2000/01/rdf-schema#label> "\u8D5B\u70ED\u5409\u5409"@zh .
+<http://vocab.getty.edu/tgn/8265204> <http://www.w3.org/2000/01/rdf-schema#label> "\u8D5B\u52D2\u6770\u6770"@zh .
+<http://vocab.getty.edu/tgn/2355904> <http://www.w3.org/2000/01/rdf-schema#label> "Corral Spring" .
+<http://vocab.getty.edu/tgn/2355904> <http://www.w3.org/2000/01/rdf-schema#label> "Goose Lake Corral Spring" .
+<http://vocab.getty.edu/tgn/1068404> <http://www.w3.org/2000/01/rdf-schema#label> "Guanshanchang" .
+<http://vocab.getty.edu/tgn/7592404> <http://www.w3.org/2000/01/rdf-schema#label> "K\u0101l\u016Bw\u0101la Pah\u0101r\u012Bpur"@en .
+<http://vocab.getty.edu/tgn/8158104> <http://www.w3.org/2000/01/rdf-schema#label> "Zhengyu"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8158104> <http://www.w3.org/2000/01/rdf-schema#label> "\u6B63\u5C7F"@zh .
+<http://vocab.getty.edu/tgn/7979004> <http://www.w3.org/2000/01/rdf-schema#label> "Sh\u0101kh"@en .
+<http://vocab.getty.edu/tgn/7979004> <http://www.w3.org/2000/01/rdf-schema#label> "Sh\u0101kb" .
+<http://vocab.getty.edu/tgn/8657204> <http://www.w3.org/2000/01/rdf-schema#label> "Nankan Yizu"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8657204> <http://www.w3.org/2000/01/rdf-schema#label> "\u5357\u574E\u4E00\u7EC4"@zh .
+<http://vocab.getty.edu/tgn/7480804> <http://www.w3.org/2000/01/rdf-schema#label> "Mingchi Guoxiao"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/7480804> <http://www.w3.org/2000/01/rdf-schema#label> "Mingchi Guosiao"@zh-latn .
+<http://vocab.getty.edu/tgn/7480804> <http://www.w3.org/2000/01/rdf-schema#label> "Ming-ch'ih Kuo-hsiao"@zh-latn .
+<http://vocab.getty.edu/tgn/7480804> <http://www.w3.org/2000/01/rdf-schema#label> "\u660E\u6065\u570B\u5C0F"@zh .
+<http://vocab.getty.edu/tgn/7670704> <http://www.w3.org/2000/01/rdf-schema#label> "Mel'khogors"@ru-latn .
+<http://vocab.getty.edu/tgn/7670704> <http://www.w3.org/2000/01/rdf-schema#label> "Melhogors" .
+<http://vocab.getty.edu/tgn/2468304> <http://www.w3.org/2000/01/rdf-schema#label> "Long Mountain" .
+<http://vocab.getty.edu/tgn/8363004> <http://www.w3.org/2000/01/rdf-schema#label> "Madianzi"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8363004> <http://www.w3.org/2000/01/rdf-schema#label> "\u9A6C\u5E97\u5B50"@zh .
+<http://vocab.getty.edu/tgn/7130004> <http://www.w3.org/2000/01/rdf-schema#label> "Michel-Berg" .
+<http://vocab.getty.edu/tgn/8508304> <http://www.w3.org/2000/01/rdf-schema#label> "Guangmingcun"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8508304> <http://www.w3.org/2000/01/rdf-schema#label> "\u5149\u660E\u6751"@zh .
+<http://vocab.getty.edu/tgn/7046404> <http://www.w3.org/2000/01/rdf-schema#label> "Colle Sant'Angelo" .
+<http://vocab.getty.edu/tgn/2568904> <http://www.w3.org/2000/01/rdf-schema#label> "Parker Lake" .
+<http://vocab.getty.edu/tgn/7314104> <http://www.w3.org/2000/01/rdf-schema#label> "La Tuna, Cerro" .
+<http://vocab.getty.edu/tgn/7314104> <http://www.w3.org/2000/01/rdf-schema#label> "Cerro La Tuna" .
+<http://vocab.getty.edu/tgn/8353804> <http://www.w3.org/2000/01/rdf-schema#label> "Longhe"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8353804> <http://www.w3.org/2000/01/rdf-schema#label> "\u9F99\u548C"@zh .
+<http://vocab.getty.edu/tgn/2716704> <http://www.w3.org/2000/01/rdf-schema#label> "The Sisters" .
+<http://vocab.getty.edu/tgn/8182104> <http://www.w3.org/2000/01/rdf-schema#label> "Naggaika'og"@bo-latn .
+<http://vocab.getty.edu/tgn/8182104> <http://www.w3.org/2000/01/rdf-schema#label> "Nagekayue"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8182104> <http://www.w3.org/2000/01/rdf-schema#label> "\u90A3\u683C\u5580\u7EA6"@zh .
+<http://vocab.getty.edu/tgn/7692604> <http://www.w3.org/2000/01/rdf-schema#label> "Duman"@en .
+<http://vocab.getty.edu/tgn/8442304> <http://www.w3.org/2000/01/rdf-schema#label> "Aidong"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8442304> <http://www.w3.org/2000/01/rdf-schema#label> "\u77EE\u6D1E"@zh .
+<http://vocab.getty.edu/tgn/2607204> <http://www.w3.org/2000/01/rdf-schema#label> "Randelville" .
+<http://vocab.getty.edu/tgn/8033004> <http://www.w3.org/2000/01/rdf-schema#label> "Dal Darra"@en .
+<http://vocab.getty.edu/tgn/7312304> <http://www.w3.org/2000/01/rdf-schema#label> "La Ruda, Quebrada de" .
+<http://vocab.getty.edu/tgn/7312304> <http://www.w3.org/2000/01/rdf-schema#label> "Quebrada de La Ruda" .
+<http://vocab.getty.edu/tgn/2754104> <http://www.w3.org/2000/01/rdf-schema#label> "Watson Spring" .
+<http://vocab.getty.edu/tgn/8642904> <http://www.w3.org/2000/01/rdf-schema#label> "Tanjiawan"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8642904> <http://www.w3.org/2000/01/rdf-schema#label> "\u8C08\u5BB6\u6E7E"@zh .
+<http://vocab.getty.edu/tgn/2664004> <http://www.w3.org/2000/01/rdf-schema#label> "Silver Mountain" .
+<http://vocab.getty.edu/tgn/8605904> <http://www.w3.org/2000/01/rdf-schema#label> "Zhanyangzai"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8605904> <http://www.w3.org/2000/01/rdf-schema#label> "\u5360\u579F\u4ED4"@zh .
+<http://vocab.getty.edu/tgn/7891104> <http://www.w3.org/2000/01/rdf-schema#label> "Woodpark"@en .
+<http://vocab.getty.edu/tgn/7362004> <http://www.w3.org/2000/01/rdf-schema#label> "El Lim\u00F3n" .
+<http://vocab.getty.edu/tgn/7937704> <http://www.w3.org/2000/01/rdf-schema#label> "Kili M\u012Br Az\u012Bz Muhammad"@en .
+<http://vocab.getty.edu/tgn/8173504> <http://www.w3.org/2000/01/rdf-schema#label> "Zhangdaxu"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8173504> <http://www.w3.org/2000/01/rdf-schema#label> "\u5F20\u5927\u5729"@zh .
+<http://vocab.getty.edu/tgn/2200204> <http://www.w3.org/2000/01/rdf-schema#label> "Brushy Creek Watershed 17" .
+<http://vocab.getty.edu/tgn/1080004> <http://www.w3.org/2000/01/rdf-schema#label> "Guskube" .
+<http://vocab.getty.edu/tgn/2029904> <http://www.w3.org/2000/01/rdf-schema#label> "Rock Falls" .
+<http://vocab.getty.edu/tgn/7914804> <http://www.w3.org/2000/01/rdf-schema#label> "Mi\u0101n Dheri"@en .
+<http://vocab.getty.edu/tgn/8634704> <http://www.w3.org/2000/01/rdf-schema#label> "Huangjinhu"@zh-latn .
+<http://vocab.getty.edu/tgn/8634704> <http://www.w3.org/2000/01/rdf-schema#label> "\u9EC4\u91D1\u6E56"@zh .
+<http://vocab.getty.edu/tgn/7943304> <http://www.w3.org/2000/01/rdf-schema#label> "Basti Bachaw\u0101lpuri"@en .
+<http://vocab.getty.edu/tgn/2236704> <http://www.w3.org/2000/01/rdf-schema#label> "Chiflones Canyon" .
+<http://vocab.getty.edu/tgn/7823304> <http://www.w3.org/2000/01/rdf-schema#label> "Tantonan Bore"@en .
+<http://vocab.getty.edu/tgn/7532004> <http://www.w3.org/2000/01/rdf-schema#label> "Mas\u0101kin A\u0163las wa Sab\u012Bk\u016B"@ar-latn .
+<http://vocab.getty.edu/tgn/7532004> <http://www.w3.org/2000/01/rdf-schema#label> "A\u0163las wa Sab\u012Bk\u016B, Mas\u0101kin"@ar-latn .
+<http://vocab.getty.edu/tgn/7532004> <http://www.w3.org/2000/01/rdf-schema#label> "\u0645\u0633\u0627\u0643\u0646 \u0623\u0637\u0644\u0633 \u0648 \u0633\u0628\u064A\u0643\u0648"@ar .
+<http://vocab.getty.edu/tgn/8168604> <http://www.w3.org/2000/01/rdf-schema#label> "Beilou"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8168604> <http://www.w3.org/2000/01/rdf-schema#label> "\u5317\u697C"@zh .
+<http://vocab.getty.edu/tgn/2585204> <http://www.w3.org/2000/01/rdf-schema#label> "Pino, Arroyo del" .
+<http://vocab.getty.edu/tgn/2585204> <http://www.w3.org/2000/01/rdf-schema#label> "Arroyo del Pino" .
+<http://vocab.getty.edu/tgn/1128104> <http://www.w3.org/2000/01/rdf-schema#label> "One Hundred and Two" .
+<http://vocab.getty.edu/tgn/1128104> <http://www.w3.org/2000/01/rdf-schema#label> "Hundred and Two River" .
+<http://vocab.getty.edu/tgn/8439504> <http://www.w3.org/2000/01/rdf-schema#label> "Sifangbei"@zh-latn-pinyin-x-notone .
+<http://vocab.getty.edu/tgn/8439504> <http://www.w3.org/2000/01/rdf-schema#label> "\u56DB\u65B9\u7891"@zh .
+<http://vocab.getty.edu/tgn/7092104> <http://www.w3.org/2000/01/rdf-schema#label> "Usa" .
