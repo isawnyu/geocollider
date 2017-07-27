@@ -16,7 +16,9 @@ class BinScriptsTest < Minitest::Test
 
   def test_pleiades_geojson
     output_filename = 'test-output.csv'
-    `bundle exec ./bin/geocollider-pleiades-geojson.rb #{output_filename} test/fixtures/stations.geojson > /dev/null 2>&1`
+    input_filename = 'test/fixtures/stations.geojson'
+    assert File.exist?(input_filename)
+    `bundle exec ./bin/geocollider-pleiades-geojson.rb #{output_filename} #{input_filename} > /dev/null 2>&1`
     assert_equal 0,$?.exitstatus
     assert File.exist?(output_filename)
     output_contents = IO.read(output_filename).chomp
@@ -27,7 +29,9 @@ class BinScriptsTest < Minitest::Test
 
   def test_pleiades_geonames
     output_filename = 'test-output.csv'
-    `bundle exec ./bin/geocollider-pleiades-geonames.rb #{output_filename} test/fixtures/geonames-IT-1000.csv > /dev/null 2>&1`
+    input_filename = 'test/fixtures/geonames-IT-1000.csv'
+    assert File.exist?(input_filename)
+    `bundle exec ./bin/geocollider-pleiades-geonames.rb #{output_filename} #{input_filename} > /dev/null 2>&1`
     assert_equal 0,$?.exitstatus
     assert File.exist?(output_filename)
     output_contents = IO.read(output_filename)
@@ -37,7 +41,11 @@ class BinScriptsTest < Minitest::Test
 
   def test_pleiades_tgn
     output_filename = 'test-output.csv'
-    `bundle exec ./bin/geocollider-pleiades-tgn.rb #{output_filename} test/fixtures/tgn-labels-1000.nt test/fixtures/tgn-geometries-1000.nt > /dev/null 2>&1`
+    input_filenames = ['test/fixtures/tgn-labels-1000.nt', 'test/fixtures/tgn-geometries-1000.nt']
+    input_filenames.each do |input_filename|
+      assert File.exist?(input_filename)
+    end
+    `bundle exec ./bin/geocollider-pleiades-tgn.rb #{output_filename} #{input_filenames.join(' ')} > /dev/null 2>&1`
     assert_equal 0,$?.exitstatus
     assert File.exist?(output_filename)
     output_contents = IO.read(output_filename).chomp
