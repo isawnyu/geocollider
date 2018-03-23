@@ -74,7 +74,7 @@ module Geocollider
               end
 
               csv_names = []
-              if @parse_options[:names].length > 0 # handle point-only parsing
+              if @parse_options[:names] && (@parse_options[:names].length > 0) # handle point-only parsing
                 csv_names = @parse_options[:names].map {|name_field| row[name_field]}.uniq.compact
               end
 
@@ -87,7 +87,8 @@ module Geocollider
 
                 unless csv_place.nil?
                   places[csv_row["id"]] = {}
-                  places[csv_row["id"]]["point"] = csv_place
+                  places[csv_row["id"]]["points"] ||= []
+                  places[csv_row["id"]]["points"] << csv_place
                 end
               else # comparison function passed
                 if csv_names.length > 0
@@ -122,11 +123,13 @@ module Geocollider
         lambda_function = lambda do |name, place, id|
           places.each_key do |check_place|
             if (places[check_place]['locationPrecision'] != 'unlocated')
-              places[check_place]['points'].each do |check_point|
-                if Geocollider::CSVParser.check_point(check_point, place, distance_threshold)
-                  $stderr.puts "Match: #{check_place},#{id}"
-                  csv_writer << [check_place, id]
-                  break
+              if places[check_place]['points']
+                places[check_place]['points'].each do |check_point|
+                  if Geocollider::Parsers::CSVParser.check_point(check_point, place, distance_threshold)
+                    $stderr.puts "Match: #{check_place},#{id}"
+                    csv_writer << [check_place, id]
+                    break
+                  end
                 end
               end
             end
@@ -143,7 +146,7 @@ module Geocollider
             names[normalized_name].each do |check_place|
               $stderr.puts "Checking #{check_place}"
               places[check_place]['points'].each do |check_point|
-                if Geocollider::CSVParser.check_point(check_point, place, distance_threshold)
+                if Geocollider::Parsers::CSVParser.check_point(check_point, place, distance_threshold)
                   $stderr.puts "Match!"
                   csv_writer << [check_place, id]
                   break
